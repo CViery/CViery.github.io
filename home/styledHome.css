@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#Header{
+    display: flex;
+    justify-content: space-around;
+    height: 10vh;
+    align-items: center;
+}
+#logoPorto{
+    height: 25px;
+   
+}
+
+main{
+    height: 80vh;
+    background-color: rgb(77, 185, 232) ;
+    
+}
+#menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+    padding: 6em;
+}
+.button-home{
+    background-color: white;
+    border: none;
+    width: 350px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.button-home:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+
+footer{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
