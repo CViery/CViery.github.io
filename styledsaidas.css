@@ -17,7 +17,8 @@
 
 main{
      height: 80%;
-    background-color: #4db9e8 ;
+/*     background-color: #4db9e8 ; */
+    background-image: url("https://cdn.autopapo.com.br/box/uploads/2019/03/18135542/oficina-mecanica-shutterstock.jpg");
     padding: 20px;
     
 }

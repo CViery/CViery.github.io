@@ -988,7 +988,7 @@ const produtos = [
      referencia: 300200,
      marca: "CAR80",
      quantidadeMin: 0,
-     quantidade: 0
+     quantidade: 12
     },
     {
      id: 111,
@@ -997,7 +997,7 @@ const produtos = [
      referencia: 300230,
      marca: "CAR80",
      quantidadeMin: 0,
-     quantidade: 22
+     quantidade: 10
     },
     {
      id: 112,

@@ -16,7 +16,8 @@
 
 main{
     height: 80vh;
-    background-color: rgb(77, 185, 232) ;
+    /* background-color: rgb(77, 185, 232) ; */
+    background-image: url("https://blog.simplusbr.com/wp-content/uploads/2020/09/oficina-mecanica-organizada.jpg");
     
 }
 #menu{
@@ -28,14 +29,14 @@ main{
     padding: 6em;
 }
 .button-home{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.6);
     border: none;
     width: 350px;
     font-size: 30px;
     border-radius: 10px;
 }
 .button-home:hover{
-    background-color: aquamarine;
+    background-color: rgba(125, 255, 212, 0.8);
     cursor: pointer;
 }
 
