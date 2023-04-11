@@ -1,6 +1,6 @@
 const alertamin = ()=>{
     for (let i = 0; i < produtos.length; i++) {
-      if (produtos[i].quantidade <= produtos[i].quantidadeMin) {
+      if (produtos[i].quantidade < produtos[i].quantidadeMin) {
         let card = document.createElement('div');
         card.classList.add('card');
         card.innerHTML = `

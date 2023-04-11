@@ -2,6 +2,7 @@ const produtos = [
   
     {
      id: 1,
+     img:"https://cdn.awsli.com.br/300x300/583/583938/produto/23844786/a3b21c050d.jpg",
      codigo: 98550378,
      item: "ÓLEO ACDELCO SEMISINTÉTICO SAE 5W3O API SN",
      referencia: "5W30",
@@ -11,6 +12,7 @@ const produtos = [
     },
     {
      id: 2,
+     img:"https://images.tcdn.com.br/img/img_prod/1039962/kit_troca_oleo_5w30_filtro_astra_acdelco_sae_5w30_api_sn_285_2_60c1d6632056bc5174df2897a9c1d0a8.png",
      codigo: 98550168,
      item: "ÓLEO ACDELCO SINTÉTICO 5W30 API SN",
      referencia: "5W30",
@@ -20,6 +22,7 @@ const produtos = [
     },
     {
      id: 3,
+     img:"https://images.tcdn.com.br/img/img_prod/1039962/kit_troca_oleo_0w20_filtro_onix_2017_acima_acdelco_api_sn_281_2_75a0956974104230d501d4d5be889d27.png",
      codigo: 98550549,
      item: "ÓLEO ACDELCO SINTÉTICO 0W20 API SN",
      referencia: "0W20",
@@ -29,6 +32,7 @@ const produtos = [
     },
     {
      id: 4,
+     img:"https://cdn.pli-petronas.com/styles/image_340x315/s3/2022-04/Pack%20Syntium%203000%20XS%20SP%205W30%20-%201L.png?VersionId=cEmwv7ik4OkeRKquyr9OabOc_sx7Na7O&itok=yjdoYiwp",
      codigo: 20141,
      item: "ÓLEO PETRONAS SYNTIUM 3000XS 5W30 SINTÉTICO",
      referencia: "5W30",
@@ -38,6 +42,7 @@ const produtos = [
     },
     {
      id: 5,
+     img:"https://loja.sinnalveiculos.com.br/image/cache/catalog/CLASSIC-LINE-MOPAR/tvNl4redqrqTGYX6nDCg6MiT5DdPIzxOhGb6vRyljzVbdwVvSuxQRCW1j1-600x315.png",
      codigo: 7092612,
      item: "ÓLEO CLASSIC LINE SINTÉTICO 5W30",
      referencia: "5W30",
@@ -47,6 +52,7 @@ const produtos = [
     },
     {
      id: 6,
+     img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIibq2snnS9ra-GbYkaDHjAs6LBpkoiNkMBHXdUa4OyjCAL1d0-3zkLPor0SJ5npu4YQ&usqp=CAU",
      codigo: 22040238,
      item: "ÓLEO PARA MOTOR A DIESEL MAXON 5W30",
      referencia: "5W30",
@@ -538,7 +544,7 @@ const produtos = [
      referencia: "AKX35323",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 2
+     quantidade: 7
     },
     {
      id: 61,
@@ -556,7 +562,7 @@ const produtos = [
      referencia: "AKX1375",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 2
+     quantidade: 4
     },
     {
      id: 63,
@@ -781,7 +787,7 @@ const produtos = [
      referencia: "AKX1959",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 1
+     quantidade: 4
     },
     {
      id: 88,
@@ -1015,7 +1021,7 @@ const produtos = [
      referencia: "PH11457",
      marca: "FRAM",
      quantidadeMin: 3,
-     quantidade: 1
+     quantidade: 4
     },
     {
      id: 114,
@@ -1087,7 +1093,7 @@ const produtos = [
      referencia: "PH5796",
      marca: "FRAM",
      quantidadeMin: 3,
-     quantidade: 0
+     quantidade: 2
     },
     {
      id: 122,
@@ -1240,7 +1246,7 @@ const produtos = [
      referencia: "PH3593A",
      marca: "FRAM",
      quantidadeMin: 4,
-     quantidade: 2
+     quantidade: 4
     },
     {
      id: 139,
@@ -1258,7 +1264,7 @@ const produtos = [
      referencia: "OC504",
      marca: "MAHLE",
      quantidadeMin: 5,
-     quantidade: 3
+     quantidade: 8
     },
     {
      id: 141,
@@ -2014,7 +2020,7 @@ const produtos = [
      referencia: "JFA0447",
      marca: "WEGA",
      quantidadeMin: 0,
-     quantidade: 0
+     quantidade: 3
     },
     {
      id: 225,
@@ -2284,7 +2290,7 @@ const produtos = [
      referencia: "SC-G73",
      marca: "NGK",
      quantidadeMin: 0,
-     quantidade: 3
+     quantidade: 4
     },
     {
      id: 255,
@@ -2698,7 +2704,7 @@ const produtos = [
      referencia: "N-1767",
      marca: "COBREG",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 0
     },
     {
      id: 301,
@@ -3246,6 +3252,7 @@ function pesquisarProdutos  (termo) {
     let html = '';
     for (let i = 0; i < produtos.length; i++) {
       html += '<div class="produto">';
+      html += `<img class="imgprodutos" src="${produtos[i].img}" alt="">`
       html += '<h2 class="tituloProduto">' + produtos[i].item + '</h2>';
       html += '<p class="infos">'+ "ID:   " + produtos[i].id + '</p>';
       html += '<p class="infos">'+ "Codigo:  " + produtos[i].codigo + '</p>';
