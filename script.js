@@ -16,7 +16,7 @@ const users = [
         const iPass = i.password
         if (userName == iName && password == iPass) {
             alert(`Olá! ${userName}, sejá bem vindo!`);
-            window.location.href = '../home/home.html';
+            window.location.href = './home.html';
         }
     }}
 
