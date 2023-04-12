@@ -76,7 +76,7 @@ const produtos = [
      referencia: "DOT 4",
      marca: "ATE",
      quantidadeMin: 12,
-     quantidade: 27
+     quantidade: 25
     },
     {
      id: 9,
@@ -157,7 +157,7 @@ const produtos = [
      referencia: "5W40",
      marca: "VOLSKWAGEM",
      quantidadeMin: 12,
-     quantidade: 13
+     quantidade: 9
     },
     {
      id: 18,
@@ -679,7 +679,7 @@ const produtos = [
      referencia: "AKX1129F",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 1
+     quantidade: 0
     },
     {
      id: 76,
@@ -778,7 +778,7 @@ const produtos = [
      referencia: "AKX35347F",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 3
+     quantidade: 2
     },
     {
      id: 87,
@@ -1021,13 +1021,13 @@ const produtos = [
      referencia: "PH11457",
      marca: "FRAM",
      quantidadeMin: 3,
-     quantidade: 4
+     quantidade: 3
     },
     {
      id: 114,
      codigo: "OC1449",
-     item: "FILTRO DE ÓLEO OC1449 MAHLE",
-     referencia: "OC1449",
+     item: "FILTRO DE ÓLEO OC1449 MAHLE(PH11457)",
+     referencia: "PH11457",
      marca: "MAHLE",
      quantidadeMin: 3,
      quantidade: 1
@@ -1435,7 +1435,7 @@ const produtos = [
      referencia: "KL583",
      marca: "MAHLE",
      quantidadeMin: 5,
-     quantidade: 19
+     quantidade: 18
     },
     {
      id: 160,
@@ -1656,7 +1656,7 @@ const produtos = [
     {
      id: 184,
      codigo: "**",
-     item: "ARRUELA DE BUJÃO AZUL",
+     item: "ANEL BUJÃO AZUL BORRACHA",
      referencia: "**",
      marca: "**",
      quantidadeMin: 1,
@@ -1674,7 +1674,7 @@ const produtos = [
     {
      id: 186,
      codigo: "**",
-     item: "ARRUELA DE BUJÃO FIAT",
+     item: "ANEL DE BUJÃO FIAT",
      referencia: "**",
      marca: "**",
      quantidadeMin: 1,
@@ -1683,7 +1683,7 @@ const produtos = [
     {
      id: 187,
      codigo: "**",
-     item: "ARRUELA DE BUJÃO PEUGEOT",
+     item: "ANEL DE BUJÃO PEUGEOT",
      referencia: "**",
      marca: "**",
      quantidadeMin: 1,
@@ -1692,7 +1692,7 @@ const produtos = [
     {
      id: 188,
      codigo: "**",
-     item: "ARRUELA DE BUJÃO RENAULT",
+     item: "AENL DE BUJÃO RENAULT",
      referencia: "**",
      marca: "**",
      quantidadeMin: 1,
@@ -1701,7 +1701,7 @@ const produtos = [
     {
      id: 189,
      codigo: "**",
-     item: "ARRUELA DE BUJÃO FORD",
+     item: "ANEL DE BUJÃO FORD",
      referencia: "**",
      marca: "**",
      quantidadeMin: 1,
@@ -1710,7 +1710,7 @@ const produtos = [
     {
      id: 190,
      codigo: "**",
-     item: "ARRUELA DE BUJÃO HONDA",
+     item: "ANEL DE BUJÃO HONDA",
      referencia: "**",
      marca: "**",
      quantidadeMin: 1,
@@ -1719,7 +1719,7 @@ const produtos = [
     {
      id: 191,
      codigo: "**",
-     item: "ARRUELA DE BUJÃO TOYOTA",
+     item: "ANEL DE BUJÃO TOYOTA",
      referencia: "**",
      marca: "**",
      quantidadeMin: 1,
@@ -1728,11 +1728,11 @@ const produtos = [
     {
      id: 192,
      codigo: "**",
-     item: "ARRUELA DE BUJÃO VW",
+     item: "ANEL DE BUJÃO VW",
      referencia: "**",
      marca: "**",
      quantidadeMin: 1,
-     quantidade: 68
+     quantidade: 67
     },
     {
      id: 193,
@@ -2128,7 +2128,7 @@ const produtos = [
      referencia: "LNAR7A-9G",
      marca: "NGK",
      quantidadeMin: 1,
-     quantidade: 3
+     quantidade: 8
     },
     {
      id: 237,
@@ -2488,7 +2488,7 @@ const produtos = [
      referencia: "FAP3599",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 1
+     quantidade: 0
     },
     {
      id: 277,
@@ -2704,7 +2704,7 @@ const produtos = [
      referencia: "N-1767",
      marca: "COBREG",
      quantidadeMin: 1,
-     quantidade: 0
+     quantidade: 1
     },
     {
      id: 301,
@@ -3245,7 +3245,7 @@ const produtos = [
       referencia:"KER7A-8DEG",
       marca:"NGK",
       quantidadeMin:4,
-      quantidade: 1
+      quantidade: 8
     },
     {
       id:361,
@@ -3254,7 +3254,7 @@ const produtos = [
       referencia:"N-252",
       marca:"COBREQ",
       quantidadeMin:1,
-      quantidade:0
+      quantidade:1
     },
     {
       id:362,
