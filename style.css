@@ -141,7 +141,7 @@ footer{
   }
   .container-dados{
     display: flex;
-    gap: 100px;
+    gap: 50px;
   }
   .titulo-rela{
     margin-bottom: 10px;
@@ -156,5 +156,8 @@ footer{
     margin-bottom: 5px;
   }
   .data p{
+    margin-bottom: 5px;
+  }
+  .quantidade p{
     margin-bottom: 5px;
   }
