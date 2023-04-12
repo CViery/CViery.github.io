@@ -121,7 +121,7 @@ const produtos = [
      referencia: "ROSA",
      marca: "PARAFLU",
      quantidadeMin: 1,
-     quantidade: 12
+     quantidade:8
     },
     {
      id: 14,
@@ -139,7 +139,7 @@ const produtos = [
      referencia: "DEXRON III",
      marca: "MAXON",
      quantidadeMin: 1,
-     quantidade: 7
+     quantidade: 6
     },
     {
      id: 16,
@@ -679,7 +679,7 @@ const produtos = [
      referencia: "AKX1129F",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 0
+     quantidade: 5
     },
     {
      id: 76,
@@ -2407,7 +2407,7 @@ const produtos = [
      referencia: "FAP3286",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 1
+     quantidade: 3
     },
     {
      id: 268,
@@ -2461,7 +2461,7 @@ const produtos = [
      referencia: "LX1779",
      marca: "MAHLE",
      quantidadeMin: 1,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 274,
@@ -2470,7 +2470,7 @@ const produtos = [
      referencia: "FAP7007",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 1
+     quantidade: 3
     },
     {
      id: 275,
@@ -2488,7 +2488,7 @@ const produtos = [
      referencia: "FAP3599",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 0
+     quantidade: 2
     },
     {
      id: 277,
@@ -2497,7 +2497,7 @@ const produtos = [
      referencia: "FAP2219",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 278,
@@ -3258,6 +3258,16 @@ const produtos = [
     },
     {
       id:362,
+      codigo:"FAP9054",
+      item:"FILTRO DE AR FAP9054 WEGA",
+      referencia:"FAP9054",
+      marca:"WEGA",
+      quantidadeMin:1,
+      quantidade:3
+
+    },
+    {
+      id:363,
       codigo:"98553886",
       item:"ÓLEO SINTÉTICO ACDELCO DEXOS 1 SAE 5W30 API SP",
       referencia:"5w30",
