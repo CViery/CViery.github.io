@@ -652,7 +652,7 @@ const produtos = [
      referencia: "AKX35163",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 2
+     quantidade: 1
     },
     {
      id: 73,
