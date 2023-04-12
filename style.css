@@ -123,3 +123,38 @@ footer{
     text-decoration: none;
     color: black;
   }
+  .container-card{
+    background-color: rgba(255, 255, 255,0.8);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+  }
+  
+  .cabeca{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+  }
+  .container-dados{
+    display: flex;
+    gap: 100px;
+  }
+  .titulo-rela{
+    margin-bottom: 10px;
+  }
+  .placa p{
+    margin-bottom: 5px;
+  }
+  .ordemservico p {
+    margin-bottom: 5px;
+  }
+  .item p {
+    margin-bottom: 5px;
+  }
+  .data p{
+    margin-bottom: 5px;
+  }

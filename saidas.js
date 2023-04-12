@@ -112,7 +112,7 @@ const produtos = [
      referencia: "75W85",
      marca: "ACDELCO",
      quantidadeMin: 1,
-     quantidade: 0
+     quantidade: 7
     },
     {
      id: 13,
@@ -1363,7 +1363,7 @@ const produtos = [
      referencia: "M60AD",
      marca: "MOURA",
      quantidadeMin: 2,
-     quantidade: 5
+     quantidade: 4
     },
     {
      id: 152,
