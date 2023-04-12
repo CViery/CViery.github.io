@@ -47,3 +47,8 @@ footer{
     align-items: center;
     justify-content: center;
 }
+.logo{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+  }
