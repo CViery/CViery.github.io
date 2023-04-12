@@ -3255,6 +3255,15 @@ const produtos = [
       marca:"COBREQ",
       quantidadeMin:1,
       quantidade:0
+    },
+    {
+      id:362,
+      codigo:"98553886",
+      item:"ÓLEO SINTÉTICO ACDELCO DEXOS 1 SAE 5W30 API SP",
+      referencia:"5w30",
+      marca:"ACDELCO",
+      quantidadeMin:10,
+      quantidade:48
     }
 
    ]
