@@ -157,7 +157,7 @@ const produtos = [
      referencia: "5W40",
      marca: "VOLSKWAGEM",
      quantidadeMin: 12,
-     quantidade: 9
+     quantidade: 13
     },
     {
      id: 18,
