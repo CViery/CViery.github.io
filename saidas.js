@@ -211,7 +211,7 @@ const produtos = [
      referencia: "5W30",
      marca: "MOTORCRAFT",
      quantidadeMin: 12,
-     quantidade: 49
+     quantidade: 48
     },
     {
      id: 24,
@@ -1273,7 +1273,7 @@ const produtos = [
      referencia: "OC506",
      marca: "MAHLE",
      quantidadeMin: 3,
-     quantidade: 6
+     quantidade: 5
     },
     {
      id: 142,
