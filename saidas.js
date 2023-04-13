@@ -7,7 +7,7 @@ const produtos = [
      item: "ÓLEO ACDELCO SEMISINTÉTICO SAE 5W3O API SN",
      referencia: "5W30",
      marca: "ACDELCO",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 15
     },
     {
@@ -17,7 +17,7 @@ const produtos = [
      item: "ÓLEO ACDELCO SINTÉTICO 5W30 API SN",
      referencia: "5W30",
      marca: "ACDELCO",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 70
     },
     {
@@ -27,7 +27,7 @@ const produtos = [
      item: "ÓLEO ACDELCO SINTÉTICO 0W20 API SN",
      referencia: "0W20",
      marca: "ACDELCO",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 26
     },
     {
@@ -37,7 +37,7 @@ const produtos = [
      item: "ÓLEO PETRONAS SYNTIUM 3000XS 5W30 SINTÉTICO",
      referencia: "5W30",
      marca: "PETRONAS",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 14
     },
     {
@@ -47,7 +47,7 @@ const produtos = [
      item: "ÓLEO CLASSIC LINE SINTÉTICO 5W30",
      referencia: "5W30",
      marca: "CLASSIC LINE",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 7
     },
     {
@@ -57,7 +57,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR A DIESEL MAXON 5W30",
      referencia: "5W30",
      marca: "MAXON",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 21
     },
     {
@@ -66,7 +66,7 @@ const produtos = [
      item: "ÓLEO PETRONAS SYNTIUM 7000 HYBRID 0W20",
      referencia: "0W20",
      marca: "PETRONAS",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 53
     },
     {
@@ -75,7 +75,7 @@ const produtos = [
      item: "FLUIDO DE FREIO ATE DOT 4 0,5L ",
      referencia: "DOT 4",
      marca: "ATE",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 25
     },
     {
@@ -84,7 +84,7 @@ const produtos = [
      item: "FLUIDO PARA TRANSMISSÃO AUTOMÁTICA E DIREÇÃO HIDRAULICA DEXRON VI",
      referencia: "DEXRON",
      marca: "ACDELCO",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -93,7 +93,7 @@ const produtos = [
      item: "ÓLEO PARA SISTEMAS PNEUMÁTICOS ARC-C10",
      referencia: "ARC-10",
      marca: "ARCDAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -102,7 +102,7 @@ const produtos = [
      item: "LUBRIFICANTE MINERAL PARA TRASMISSÃO AUTOMATICA E DIREÇÃO HIDRAULICA",
      referencia: "GM",
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -111,7 +111,7 @@ const produtos = [
      item: "ÓLEO PARA TRANSMISSÃO MECÂNICA 75W85 ACDELCO ",
      referencia: "75W85",
      marca: "ACDELCO",
-     quantidadeMin: 1,
+     quantidadeMin: 4,
      quantidade: 7
     },
     {
@@ -120,7 +120,7 @@ const produtos = [
      item: "SOLUÇÃO ARREFECEDORA PARAFLU ROSA",
      referencia: "ROSA",
      marca: "PARAFLU",
-     quantidadeMin: 1,
+     quantidadeMin: 02,
      quantidade:8
     },
     {
@@ -129,7 +129,7 @@ const produtos = [
      item: "LUBRIFICANTE SEMISSINTÉTICO PARA TRANSMISSÃO E DIFERENCIAL75W80",
      referencia: "75W80",
      marca: "MAXON",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 25
     },
     {
@@ -138,7 +138,7 @@ const produtos = [
      item: "FLUIDO LUBRIFICANTE PARA TRASMISSÃO AUTOMÁTICA E SISTEMAS DE DIREÇÃO HIDRÁULICA ATF DEXRON III",
      referencia: "DEXRON III",
      marca: "MAXON",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 6
     },
     {
@@ -147,7 +147,7 @@ const produtos = [
      item: "ÓLEO PETRONAS SELENIA PERFORM SAE 5W40 API SN PLUS",
      referencia: "5W40",
      marca: "PETRONAS",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 21
     },
     {
@@ -156,7 +156,7 @@ const produtos = [
      item: "ÓLEO DE MOTOR ORIGINAL VOLKSWAGEN MAXI PERFORMANCE SAE 5W40 ",
      referencia: "5W40",
      marca: "VOLSKWAGEM",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 9
     },
     {
@@ -165,7 +165,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR SYNTHETIC MOTOR OIL MOTORCRAFT 5W20",
      referencia: "5W20",
      marca: "MOTORCRAFT",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 24
     },
     {
@@ -174,7 +174,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR PETRONAS SYNTIUM 1000 10W40",
      referencia: "10W40",
      marca: "PETRONAS",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 19
     },
     {
@@ -183,7 +183,7 @@ const produtos = [
      item: "ÓLEO PETRONAS SYNTIUM 800 SE SP 15W40",
      referencia: "15W40",
      marca: "PETRONAS",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 8
     },
     {
@@ -192,16 +192,16 @@ const produtos = [
      item: "ÓLEO PARA MOTOR PRO HONDA SAE 10W30",
      referencia: "10W30",
      marca: "HONDA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
      id: 22,
      codigo: 18120,
-     item: "ÓLEO PARA MOTOR DE MOTOCICLETA PETRONAS SPRINTA F500 10W50",
-     referencia: "10W50",
+     item: "ÓLEO PARA MOTOR DE MOTOCICLETA PETRONAS SPRINTA F500 10W30",
+     referencia: "10W30",
      marca: "PETRONAS",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -210,7 +210,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR SYNTHETIC MOTOR OIL MOTORCRAFT 5W30",
      referencia: "5W30",
      marca: "MOTORCRAFT",
-     quantidadeMin: 12,
+     quantidadeMin: 02,
      quantidade: 48
     },
     {
@@ -219,7 +219,7 @@ const produtos = [
      item: "SOLUÇÃO ARREFECEDORA PARAFLU AMARELA",
      referencia: "AMARELO",
      marca: "PARAFLU",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 31
     },
     {
@@ -228,8 +228,8 @@ const produtos = [
      item: "SOLUÇÃO ARREFECEDORA PARAFLU VERDE",
      referencia: "VERDE",
      marca: "PARAFLU",
-     quantidadeMin: 1,
-     quantidade: 32
+     quantidadeMin: 00,
+     quantidade: 31
     },
     {
      id: 26,
@@ -237,7 +237,7 @@ const produtos = [
      item: "LUBRIFICANTE MINERAL PARA TRASMISSÃO AUTOMOTIVA LUBRAX",
      referencia: "TRM-4",
      marca: "PETROBRAS",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -246,7 +246,7 @@ const produtos = [
      item: "ÓLEO LUBRIFICANTE PARA CAIXA DE MUDANÇA MECANICA ISAFLUIDO556",
      referencia: "ISAFLUIDO 556",
      marca: "IPIRANGA",
-     quantidadeMin: 1,
+     quantidadeMin: 2,
      quantidade: 6
     },
     {
@@ -255,7 +255,7 @@ const produtos = [
      item: "ÁGUA DESMINERALIZADA ONYX PLUS 1L",
      referencia: "ON-075",
      marca: "ONYX PLUS",
-     quantidadeMin: 1,
+     quantidadeMin: 5,
      quantidade: 13
     },
     {
@@ -264,7 +264,7 @@ const produtos = [
      item: "METALSIL DESIX AROMATIZANTE DE USO GERAL",
      referencia: "***",
      marca: "METASIL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -273,7 +273,7 @@ const produtos = [
      item: "POLIA VKM 4794 ",
      referencia: "W44W-AK",
      marca: "SKF",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -282,7 +282,7 @@ const produtos = [
      item: "TENSOR INA",
      referencia: 979548,
      marca: "INA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -291,7 +291,7 @@ const produtos = [
      item: "TENSOR FORD",
      referencia: "CM5G-6K245-EB",
      marca: "FORD",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -300,7 +300,7 @@ const produtos = [
      item: "ROLAMENTO PRO AUTOMOTIVE",
      referencia: "PRPOFE177626CP",
      marca: "PRO AUTO",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -309,7 +309,7 @@ const produtos = [
      item: "TENSOR DA CORREIA GM",
      referencia: 93353848,
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 5
     },
     {
@@ -318,7 +318,7 @@ const produtos = [
      item: "CORREIA SINCRONIZADORA GM 90531677",
      referencia: 90531677,
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 5
     },
     {
@@ -327,7 +327,7 @@ const produtos = [
      item: "KIT DE TRASMISSÃO CORREIA E TENSOR KS210 ",
      referencia: 481486,
      marca: "GATES ",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -336,7 +336,7 @@ const produtos = [
      item: "CORREIA DENTADA CT 457 CONTINENTAL ",
      referencia: "CT 453",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -345,7 +345,7 @@ const produtos = [
      item: "KIT CORREIA MV 6PK 762 ELAST CT ",
      referencia: "6PK762",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -354,7 +354,7 @@ const produtos = [
      item: "KIT CORREIA MV 3PK 796 ELAST CT",
      referencia: "3PK796",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -363,7 +363,7 @@ const produtos = [
      item: "KIT CORREIA MV 5PK 1051 ELAST CT",
      referencia: "5PK1051",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -372,7 +372,7 @@ const produtos = [
      item: "KIT CORREIA MV 6PK 1200 ELAST CT ",
      referencia: "6PK1200",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -381,7 +381,7 @@ const produtos = [
      item: "CORREIA MULTI V CORREIA ACANALADA 6PK 989 ELAST ",
      referencia: "6PK989",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -390,7 +390,7 @@ const produtos = [
      item: "CORREIA MULTI V CORREIA ACANALADA 3PK 796 ELAST ",
      referencia: "3PK796",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -399,7 +399,7 @@ const produtos = [
      item: "CORREIA DE TRANSMISSÃO",
      referencia: "GM",
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -408,7 +408,7 @@ const produtos = [
      item: "CORREIA POLY-V 6PK1560",
      referencia: "6PK1560",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -417,8 +417,8 @@ const produtos = [
      item: "CORREIA MV 5PK 1770 IMP ",
      referencia: "5PK1770",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
-     quantidade: 1
+     quantidadeMin: 0,
+     quantidade: 0
     },
     {
      id: 47,
@@ -426,7 +426,7 @@ const produtos = [
      item: "CORREIA MULTI V CORREIA ACANALADA 6PK 1200 ELAST",
      referencia: "6PK1200",
      marca: "CONTINENTAL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -435,7 +435,7 @@ const produtos = [
      item: "CORREIA POLY-V BELT 5PK1165 DAYCO",
      referencia: "5PK1165",
      marca: "DAYCO",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -444,7 +444,7 @@ const produtos = [
      item: "CORREIA DE TRANSMISSÃO GM ",
      referencia: 24579488,
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -453,7 +453,7 @@ const produtos = [
      item: "CARCACA",
      referencia: "03212026CN",
      marca: "VOLSKWAGEM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -462,7 +462,7 @@ const produtos = [
      item: "SEPARADOR ",
      referencia: "030103464A",
      marca: "VOLSKWAGEM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -471,7 +471,7 @@ const produtos = [
      item: "BOMBA D´ÁGUA URBA - FIAT\/GM",
      referencia: "UB0162",
      marca: "URBA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -480,7 +480,7 @@ const produtos = [
      item: "BOMBA D´ÁGUA URBA - VW",
      referencia: "UB0630",
      marca: "URBA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -489,7 +489,7 @@ const produtos = [
      item: "BRONZINA DE BIELA SBB-271-J-0,25 SPA",
      referencia: "SBB271J",
      marca: "METALLEVEL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -498,7 +498,7 @@ const produtos = [
      item: "BRONZINA DE MANCAL SBC-880-J-0,25",
      referencia: "SBC880J",
      marca: "METALLEVEL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -507,7 +507,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX 1965\/C WEGA",
      referencia: "AKX1965\/C",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 4
     },
     {
@@ -516,7 +516,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX2161 WEGA",
      referencia: "AKX2161",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 5
     },
     {
@@ -525,7 +525,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1937 WEGA",
      referencia: "AKXQ937",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -534,7 +534,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1939 WEGA",
      referencia: "AKX1939",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 4
     },
     {
@@ -543,7 +543,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35323 WEGA",
      referencia: "AKX35323",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 7
     },
     {
@@ -552,7 +552,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35321 WEGA",
      referencia: "AKX35321",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -561,7 +561,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1375 WEGA",
      referencia: "AKX1375",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 4
     },
     {
@@ -570,7 +570,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX 2108\/C WEGA",
      referencia: "AKX2108\/C",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -579,7 +579,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35293 WEGA",
      referencia: "AKX35293",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -588,7 +588,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35723 WEGA",
      referencia: "AKX35723",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 5
     },
     {
@@ -597,7 +597,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX3536 WEGA",
      referencia: "AKX3536",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -606,7 +606,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX3562 WEGA",
      referencia: "AKX3562",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -615,7 +615,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35159 WEGA",
      referencia: "AKX35159",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -624,7 +624,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35280 WEGA",
      referencia: "AKX35280",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -633,7 +633,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35281\/C WEGA",
      referencia: "AKX35281\/C",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -642,7 +642,7 @@ const produtos = [
      item: "FILTRO DE CABINE ACP312 TECFIL",
      referencia: "ACP312",
      marca: "TECFIL",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -651,7 +651,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35163 WEGA",
      referencia: "AKX35163",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -660,7 +660,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35634 WEGA",
      referencia: "AKX35634",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -669,7 +669,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1113\/C WEGA",
      referencia: "AKX1113\/C",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -678,7 +678,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1129F WEGA",
      referencia: "AKX1129F",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 5
     },
     {
@@ -687,7 +687,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1100\/C WEGA",
      referencia: "AKX1100\/C",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -696,7 +696,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX2007 WEGA",
      referencia: "AKX2007",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -705,7 +705,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1963 WEGA",
      referencia: "AKX1963",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -714,7 +714,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX2005 WEGA",
      referencia: "AKX2005",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -723,7 +723,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1974\/C WEGA",
      referencia: "AKX1974\/C",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -732,7 +732,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1958 WEGA",
      referencia: "AKX1958",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -741,7 +741,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1984 WEGA",
      referencia: "AKX1984",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 7
     },
     {
@@ -750,7 +750,7 @@ const produtos = [
      item: "FILTRO DE CABINE LA301 MAHLE",
      referencia: "LA301",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -759,7 +759,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1998 WEGA",
      referencia: "AKX1998",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -768,7 +768,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX2014 WEGA",
      referencia: "AKX2014",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -777,7 +777,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35347F WEGA",
      referencia: "AKX35347F",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -786,7 +786,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1959 WEGA",
      referencia: "AKX1959",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 4
     },
     {
@@ -795,7 +795,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1446 WEGA",
      referencia: "AKX1446",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -804,7 +804,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1399 WEGA",
      referencia: "AKX1399",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -813,7 +813,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1397 WEGA",
      referencia: "AKX1397",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 9
     },
     {
@@ -822,7 +822,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1215 WEGA ",
      referencia: "AKX1215",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -831,7 +831,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1956 WEGA",
      referencia: "AKX1956",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -840,7 +840,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1995 WEGA",
      referencia: "AKX1995",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -849,7 +849,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1993\/C WEGA",
      referencia: "AKX1993\/C",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -858,7 +858,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35126 WEGA ",
      referencia: "AKX35126",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -867,7 +867,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1971 WEGA",
      referencia: "AKX1971",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -876,7 +876,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1701 WEGA",
      referencia: "AKX1701",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -885,7 +885,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35175F WEGA",
      referencia: "AKX35175F",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -894,7 +894,7 @@ const produtos = [
      item: "FILTRO DE CABINE LA1099\/S MAHLE",
      referencia: "LA1099\/S",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -903,7 +903,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35345-2 WEGA ",
      referencia: "AKX35345-2",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -912,7 +912,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35157 WEGA",
      referencia: "AKX35157",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 4
     },
     {
@@ -921,7 +921,7 @@ const produtos = [
      item: "BATERIA MOURA M50JD",
      referencia: "50JD",
      marca: "MOURA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -930,7 +930,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR MAXON MINERAL 20W50 API SL",
      referencia: "MO2050",
      marca: "MAXON",
-     quantidadeMin: 312,
+     quantidadeMin: 212,
      quantidade: 8
     },
     {
@@ -939,7 +939,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR MAXON SINTÉTICO 5W40 ",
      referencia: "MO540",
      marca: "MAXON",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 20
     },
     {
@@ -948,7 +948,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX 1456\/C WEGA",
      referencia: "AKX1456\/C",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -957,7 +957,7 @@ const produtos = [
      item: "BOMBA D'ÁGUA UB0167",
      referencia: "UB0167",
      marca: "URBA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -966,7 +966,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR MAXON SINTÉTICO 0W20",
      referencia: "MO020",
      marca: "MAXON",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 25
     },
     {
@@ -975,7 +975,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR MAXON LONGLIFE 10W30 ",
      referencia: "MO1030",
      marca: "MAXON",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 33
     },
     {
@@ -984,7 +984,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR MAXON LONGLIFE 5W30",
      referencia: "MO530",
      marca: "MAXON",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 20
     },
     {
@@ -993,7 +993,7 @@ const produtos = [
      item: "CAR LUB LUBRIFICANTE ANTIFERRUGEM CAR80 ",
      referencia: 300200,
      marca: "CAR80",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 12
     },
     {
@@ -1002,7 +1002,7 @@ const produtos = [
      item: "CAR80 TUNE UP FORMULA PARA LIMPAR BICOS INJETORES CAR80",
      referencia: 300230,
      marca: "CAR80",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 10
     },
     {
@@ -1011,7 +1011,7 @@ const produtos = [
      item: "CAR CONTATO LIMPA CONTATO CAR80",
      referencia: 300200,
      marca: "CAR80",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 6
     },
     {
@@ -1020,7 +1020,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH11457 FRAM ",
      referencia: "PH11457",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -1029,7 +1029,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC1449 MAHLE(PH11457)",
      referencia: "PH11457",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1038,7 +1038,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OX339\/2D MAHLE",
      referencia: "OX339\/2D",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1047,7 +1047,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WOE624 WEGA",
      referencia: "WOE624",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1056,7 +1056,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO121 WEGA",
      referencia: "WO121",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1065,7 +1065,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO205 WEGA",
      referencia: "WO205",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 4
     },
     {
@@ -1074,7 +1074,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PSL76 TECFIL",
      referencia: "PSL76",
      marca: "TECFIL",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 0
     },
     {
@@ -1083,7 +1083,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO200 WEGA",
      referencia: "WO200",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1092,7 +1092,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH5796 FRAM ",
      referencia: "PH5796",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1101,7 +1101,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OX1018D  MAHLE",
      referencia: "OX1018D",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1110,7 +1110,7 @@ const produtos = [
      item: "FILTRO DE WOE313 WEGA",
      referencia: "WOE313",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1119,7 +1119,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OX1041D MAHLE ",
      referencia: "OX1041D",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -1128,7 +1128,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH4967 FRAM",
      referencia: "PH4967",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -1137,7 +1137,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH4967A FRAM",
      referencia: "PH4967A",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1146,7 +1146,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO133 WEGA",
      referencia: "WO133",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1155,7 +1155,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO181 WEGA",
      referencia: "WO181",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1164,7 +1164,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO139 WEGA",
      referencia: "WO139",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 4
     },
     {
@@ -1173,7 +1173,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OX175D MAHLE",
      referencia: "OX175D",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1182,7 +1182,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO156 WEGA",
      referencia: "WO156",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1191,7 +1191,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO JFOH00 WEGA",
      referencia: "JFOH00",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -1200,7 +1200,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO JFO0H01 WEGA",
      referencia: "JFO0H01",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1209,7 +1209,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC100 MAHLE",
      referencia: "OC100",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1218,7 +1218,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO JFO0F03 FRAM",
      referencia: "JFO0F03",
      marca: "WEGA",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1227,7 +1227,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH3614 FRAM",
      referencia: "PH3614",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1236,7 +1236,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH5566 FRAM ",
      referencia: "PH5566",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1254,7 +1254,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC205 MAHLE ",
      referencia: "OC205",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1272,7 +1272,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC506 MAHLE",
      referencia: "OC506",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 5
     },
     {
@@ -1281,7 +1281,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC600 MAHLE ",
      referencia: "OC600",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 6
     },
     {
@@ -1290,7 +1290,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC522 MAHLE",
      referencia: "OC522",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1299,7 +1299,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH10908 MIX 3\/2-2 FRAM",
      referencia: "PH10908",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 3
     },
     {
@@ -1443,7 +1443,7 @@ const produtos = [
      item: "FILTRO DE COMBUSTIVEL G5188 FRAM",
      referencia: "G5188",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 1
     },
     {
@@ -1452,7 +1452,7 @@ const produtos = [
      item: "FILTRO DE COMBUSTIVEL KL420 MAHLE ",
      referencia: "KL420",
      marca: "MAHLE",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1461,7 +1461,7 @@ const produtos = [
      item: "FILTRO DE COMBUSTIVEL G10226F FRAM",
      referencia: "G10226F",
      marca: "FRAM",
-     quantidadeMin: 3,
+     quantidadeMin: 2,
      quantidade: 2
     },
     {
@@ -1470,7 +1470,7 @@ const produtos = [
      item: "ABRAÇADEIRA SEM FIM ZN 32X50X9",
      referencia: 53903851,
      marca: "WURTH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 25
     },
     {
@@ -1479,7 +1479,7 @@ const produtos = [
      item: "ABRAÇADEIRA SEM FIM ZN 25X40X9",
      referencia: 53902538,
      marca: "WURTH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -1488,7 +1488,7 @@ const produtos = [
      item: "ABRAÇADEIRA SEM FIM ZNB 12X22X9",
      referencia: 53901422,
      marca: "WURTH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 25
     },
     {
@@ -1497,7 +1497,7 @@ const produtos = [
      item: "ABRAÇADEIRA SEM FIM ZN 10X16X9",
      referencia: 53901216,
      marca: "WURTH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 25
     },
     {
@@ -1506,7 +1506,7 @@ const produtos = [
      item: "TRAVA ROSCA W77 WURTH",
      referencia: "W77",
      marca: "WURTH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 5
     },
     {
@@ -1515,7 +1515,7 @@ const produtos = [
      item: "ARRUELA VED ALUMINIO 14.0X20.0 X1.5MM",
      referencia: "A230764",
      marca: "WURTH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 50
     },
     {
@@ -1524,7 +1524,7 @@ const produtos = [
      item: "VERNIZ DE MOTOR WURTH 1L",
      referencia: 892140127,
      marca: "WURTH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1533,7 +1533,7 @@ const produtos = [
      item: "EMISSOR DE COMBUSTIVEL FORD ",
      referencia: "D3B5-9A299-AD",
      marca: "FORD",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 6
     },
     {
@@ -1542,7 +1542,7 @@ const produtos = [
      item: "SENSOR DE COMBUSTIVEL TSA",
      referencia: "T010140",
      marca: "TSA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1551,7 +1551,7 @@ const produtos = [
      item: "BOMBA DE COMBUSTIVEL EUROTEAM",
      referencia: "ARB10",
      marca: "EUROTEAM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1560,7 +1560,7 @@ const produtos = [
      item: "SENSOR DE COMBUSTIVEL BOSCH",
      referencia: "F000TE176V",
      marca: "BOSCH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1569,7 +1569,7 @@ const produtos = [
      item: "ARRUELA DE BUJÃO NISSAN",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 70
     },
     {
@@ -1578,7 +1578,7 @@ const produtos = [
      item: "PRESILHA 15.3",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -1587,7 +1587,7 @@ const produtos = [
      item: "PRESILHA 11.9",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 6
     },
     {
@@ -1596,7 +1596,7 @@ const produtos = [
      item: "PRESILHA 11.3",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -1605,7 +1605,7 @@ const produtos = [
      item: "PRESILHA 13.3",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1614,7 +1614,7 @@ const produtos = [
      item: "PRESILHA 14.8",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1623,7 +1623,7 @@ const produtos = [
      item: "PRESILHA 14.5",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1632,7 +1632,7 @@ const produtos = [
      item: "PRESILHA 12.3",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1641,7 +1641,7 @@ const produtos = [
      item: "JOINT 16X24 - 15",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 15
     },
     {
@@ -1650,7 +1650,7 @@ const produtos = [
      item: "ANEL DE VEDAÇÃO PRETO",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 29
     },
     {
@@ -1659,7 +1659,7 @@ const produtos = [
      item: "ANEL BUJÃO AZUL BORRACHA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 13
     },
     {
@@ -1668,7 +1668,7 @@ const produtos = [
      item: "ANEL DE BUJÃO CHEVROLET",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 10,
+     quantidadeMin: 00,
      quantidade: 0
     },
     {
@@ -1677,7 +1677,7 @@ const produtos = [
      item: "ANEL DE BUJÃO FIAT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 10,
+     quantidadeMin: 00,
      quantidade: 1
     },
     {
@@ -1686,7 +1686,7 @@ const produtos = [
      item: "ANEL DE BUJÃO PEUGEOT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 10,
+     quantidadeMin: 00,
      quantidade: 8
     },
     {
@@ -1695,7 +1695,7 @@ const produtos = [
      item: "AENL DE BUJÃO RENAULT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 10,
+     quantidadeMin: 00,
      quantidade: 11
     },
     {
@@ -1704,7 +1704,7 @@ const produtos = [
      item: "ANEL DE BUJÃO FORD",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 10,
+     quantidadeMin: 00,
      quantidade: 18
     },
     {
@@ -1713,7 +1713,7 @@ const produtos = [
      item: "ANEL DE BUJÃO HONDA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 10,
+     quantidadeMin: 00,
      quantidade: 4
     },
     {
@@ -1722,7 +1722,7 @@ const produtos = [
      item: "ANEL DE BUJÃO TOYOTA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 10,
+     quantidadeMin: 00,
      quantidade: 24
     },
     {
@@ -1731,7 +1731,7 @@ const produtos = [
      item: "ANEL DE BUJÃO VW",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 10,
+     quantidadeMin: 00,
      quantidade: 67
     },
     {
@@ -1740,7 +1740,7 @@ const produtos = [
      item: "ARRUELA VEDA TUBO ",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 10
     },
     {
@@ -1749,7 +1749,7 @@ const produtos = [
      item: "ABRAÇADEIRA UNIVERSAL 12X16",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1758,7 +1758,7 @@ const produtos = [
      item: "ABRAÇADEIRA UNIVERSAL 14X22",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 0
     },
     {
@@ -1767,7 +1767,7 @@ const produtos = [
      item: "ABRAÇADEIRA UNIVERSAL 19X27",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -1776,7 +1776,7 @@ const produtos = [
      item: "ABRAÇADEIRA UNIVERSAL 22X32",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 21
     },
     {
@@ -1785,7 +1785,7 @@ const produtos = [
      item: "ABRAÇADEIRA UNIVERSAL 9X13",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -1794,7 +1794,7 @@ const produtos = [
      item: "ABRAÇADEIRA COIFA 33X7",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 10
     },
     {
@@ -1803,7 +1803,7 @@ const produtos = [
      item: "ABRAÇADEIRA UNIVERSAL 25X38",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1812,7 +1812,7 @@ const produtos = [
      item: "ABRAÇADEIRA UNIVERSAL 38X51",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1821,7 +1821,7 @@ const produtos = [
      item: "ABRAÇADEIRA UNIVERSAL 26X38",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1830,7 +1830,7 @@ const produtos = [
      item: "ABRAÇADEIRA RED INCA 9MM 3\/4X1",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1839,7 +1839,7 @@ const produtos = [
      item: "SOLUÇÃO  DE ARREFECIMENTO ORGÂNICO WURTH",
      referencia: "**",
      marca: "WURTH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 12
     },
     {
@@ -1848,7 +1848,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP4043",
      referencia: "FAP4043",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1857,7 +1857,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0285",
      referencia: "JFA0285",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -1866,7 +1866,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP4041",
      referencia: "FAP4041",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -1875,7 +1875,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP6013",
      referencia: "FAP6013",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1884,7 +1884,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP9013",
      referencia: "FAP9013",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1893,7 +1893,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA CA9315",
      referencia: "CA9315",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -1902,7 +1902,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP4811",
      referencia: "FAP4811",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1911,7 +1911,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP4871",
      referencia: "FAP4871",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1920,7 +1920,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP6000",
      referencia: "FAP6000",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1929,7 +1929,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP0428\/4",
      referencia: "FAP6013",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -1938,7 +1938,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0428\/3",
      referencia: "JFA9013",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1947,7 +1947,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP0438",
      referencia: "CA9315",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -1956,7 +1956,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP0405",
      referencia: "FAP4811",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1965,7 +1965,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0447",
      referencia: "FAP4871",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -1974,7 +1974,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0426",
      referencia: "FAP6000",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -1983,7 +1983,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0429",
      referencia: "JFA0428\/4",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -1992,7 +1992,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0440",
      referencia: "JFA0428\/3",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 0
     },
     {
@@ -2001,7 +2001,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0587",
      referencia: "JFA0438",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2010,7 +2010,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0F17",
      referencia: "JFA0405",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2019,7 +2019,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0137",
      referencia: "JFA0447",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -2028,7 +2028,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0134",
      referencia: "JFA0426",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2037,7 +2037,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0193",
      referencia: "JFA0429",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2046,7 +2046,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0135",
      referencia: "JFA0440",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2055,7 +2055,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP9296",
      referencia: "JFA0587",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2064,7 +2064,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP9295",
      referencia: "JFA0F17",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2073,7 +2073,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP9003",
      referencia: "JFA0137",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -2082,7 +2082,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP7019",
      referencia: "JFA0134",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2091,7 +2091,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP9286",
      referencia: "JFA0193",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2100,7 +2100,7 @@ const produtos = [
      item: "FILTRO DE AR TECFIL ART6098",
      referencia: "JFA0135",
      marca: "TECFIL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2109,7 +2109,7 @@ const produtos = [
      item: "FILTRO DE AR MAHLE LX1780\/3",
      referencia: "FAP9296",
      marca: "MAHLE",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2118,7 +2118,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO NGK BKR7ESB-D",
      referencia: "BKR7ESB-D",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 12
     },
     {
@@ -2127,7 +2127,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO NGK LNAR7A-9G",
      referencia: "LNAR7A-9G",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 8
     },
     {
@@ -2136,7 +2136,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO NGK LTR7A-10",
      referencia: "LTR7A-10",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -2145,7 +2145,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO MOTOCRAFT AXFS22FM",
      referencia: "AXFS22FM",
      marca: "MOTORCRAFT",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -2154,7 +2154,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO NGK KR8B-10D",
      referencia: "KR8B-10D",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -2163,7 +2163,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO NGK BKR7E ",
      referencia: "BKR7E ",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -2181,7 +2181,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO FR7D-DEG",
      referencia: "FR7D-DEG",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 8
     },
     {
@@ -2190,7 +2190,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO BKR6EK ",
      referencia: "BKR6EK",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -2199,7 +2199,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO BR6ES-D",
      referencia: "BR6ES-D",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -2208,7 +2208,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO LZKR7B-DE",
      referencia: "LZKR7B-DE",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -2217,7 +2217,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO FRGE-D",
      referencia: "FRGE-D",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -2226,7 +2226,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO 93206675 ",
      referencia: 93206675,
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 16
     },
     {
@@ -2235,7 +2235,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO 93230926",
      referencia: 93230926,
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 12
     },
     {
@@ -2244,7 +2244,7 @@ const produtos = [
      item: "VELA DE IGNIÇÃO 93221446",
      referencia: 93221446,
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 8
     },
     {
@@ -2253,7 +2253,7 @@ const produtos = [
      item: "CABOS DE IGNIÇÃO ST-V25",
      referencia: "ST-V25",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2262,7 +2262,7 @@ const produtos = [
      item: "CABOS DE IGNIÇÃO SC-G101",
      referencia: "SC-G101",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2271,7 +2271,7 @@ const produtos = [
      item: "CABOS DE IGNIÇÃO SC-R13",
      referencia: "SC-R13",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2280,7 +2280,7 @@ const produtos = [
      item: "CABOS DE IGNIÇÃO SC-F35",
      referencia: "SC-F35",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2289,7 +2289,7 @@ const produtos = [
      item: "CABOS DE IGNIÇÃO SC-G73",
      referencia: "SC-G73",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2298,7 +2298,7 @@ const produtos = [
      item: "CABOS DE IGNIÇÃO SC-F30",
      referencia: "SC-F30",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2307,7 +2307,7 @@ const produtos = [
      item: "CABOS DE IGNIÇÃO BH1A-12280-AA-8",
      referencia: "BH1A-12280-AA-8",
      marca: "FORD",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2316,7 +2316,7 @@ const produtos = [
      item: "BOMBA DE IGNIÇÃO U2079",
      referencia: "U2079",
      marca: "NGK",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2325,7 +2325,7 @@ const produtos = [
      item: "BOMBA DE IGNIÇÃO B10071MM1",
      referencia: "B10071MM1",
      marca: "MAGNETE MARELLI",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2334,7 +2334,7 @@ const produtos = [
      item: "BOMBA DE IGNIÇÃO F000ZSO210",
      referencia: "F000ZSO210",
      marca: "BOSCH",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
    /*  {
@@ -2343,7 +2343,7 @@ const produtos = [
      item: "INJETOR DE COMBUSTIVEL VW",
      referencia: "**",
      marca: "MAGNETE MARELLI",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 0
     }, */
     {
@@ -2352,7 +2352,7 @@ const produtos = [
      item: "SENSOR DE OXIGENIO ES20331-13B1",
      referencia: "ES20331-13B1",
      marca: "DELPHI",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2361,7 +2361,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP9299",
      referencia: "FAP9299",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -2370,7 +2370,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP5218",
      referencia: "FAP5218",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 0
     },
     {
@@ -2379,7 +2379,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP9273",
      referencia: "FAP9273",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2388,7 +2388,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP4054\/2",
      referencia: "FAP4054\/2",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2397,7 +2397,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA WR245",
      referencia: "WR245",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2406,7 +2406,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP3286",
      referencia: "FAP3286",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -2415,7 +2415,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP3233",
      referencia: "FAP3233",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 5
     },
     {
@@ -2424,7 +2424,7 @@ const produtos = [
      item: "FILTRO DE AR MAHLE LX523",
      referencia: "LX523",
      marca: "MAHLE",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2433,7 +2433,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP3289",
      referencia: "FAP3289",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2442,7 +2442,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP3280",
      referencia: "FAP3280",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2451,7 +2451,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP3261",
      referencia: "FAP3261",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2460,7 +2460,7 @@ const produtos = [
      item: "FILTRO DE AR MAHLE LX1779",
      referencia: "LX1779",
      marca: "MAHLE",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2469,7 +2469,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP7007",
      referencia: "FAP7007",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -2478,7 +2478,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA WR196",
      referencia: "WR196",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2487,7 +2487,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP3599",
      referencia: "FAP3599",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2496,7 +2496,7 @@ const produtos = [
      item: "FIILTRO DE AR WEGA FAP2219",
      referencia: "FAP2219",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2505,7 +2505,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP3285",
      referencia: "FAP3285",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2514,7 +2514,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA FAP3288",
      referencia: "FAP3288",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2523,7 +2523,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0H21",
      referencia: "JFA0H21",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 0
     },
     {
@@ -2532,7 +2532,7 @@ const produtos = [
      item: "FILTRO DE AR MAHLE LX3800",
      referencia: "LX3800",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2541,7 +2541,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0K16",
      referencia: "JFA0K16",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2550,7 +2550,7 @@ const produtos = [
      item: "FILTRO DE AR MAHLE LX1785",
      referencia: "LX1785",
      marca: "MAHLE",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2559,7 +2559,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0H26 ",
      referencia: "JFA0H26",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2568,7 +2568,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0H40",
      referencia: "JFAOH40",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2577,7 +2577,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0H29",
      referencia: "JFA0H29",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 3
     },
     {
@@ -2586,7 +2586,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA JFA0H24",
      referencia: "JFA0H24",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2595,7 +2595,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-1272",
      referencia: "N-1272",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2604,7 +2604,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-540",
      referencia: "N-540",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2613,7 +2613,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-547",
      referencia: "N-547",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2622,7 +2622,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-1770",
      referencia: "N-1770",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2631,7 +2631,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-2131",
      referencia: "N-2131",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2640,7 +2640,7 @@ const produtos = [
      item: "PASTILHA DE FREIO HQF2344AC FERODO",
      referencia: "HQF2344AC",
      marca: "FERODO",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2649,7 +2649,7 @@ const produtos = [
      item: "PASTILHA DE FREIO HQF2460 FERODO",
      referencia: "HQF2460",
      marca: "FERODO",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2658,7 +2658,7 @@ const produtos = [
      item: "PASTILHA DE FREIO 1423 SYL",
      referencia: 1423,
      marca: "S.Y.L",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2667,7 +2667,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-525 COBREG",
      referencia: "N-252",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2676,7 +2676,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-288 COBREG",
      referencia: "N-288",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2685,7 +2685,7 @@ const produtos = [
      item: "PASTILHA DE FREIO HQJ-2356A JURID",
      referencia: "HQJ-2356A",
      marca: "JURID",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2694,7 +2694,7 @@ const produtos = [
      item: "PASTILHA DE FREIO HQJ-2282A JURID",
      referencia: "HQJ-2282A",
      marca: "JURID",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2703,7 +2703,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-1767 COBRAG",
      referencia: "N-1767",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2712,7 +2712,7 @@ const produtos = [
      item: "PASTILHA DE FREIO 3250 S.Y.L",
      referencia: 3250,
      marca: "S.Y.L",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2721,7 +2721,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-1344 COBREG",
      referencia: "N-1344",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2730,7 +2730,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-1377 COBREG",
      referencia: "N-1377",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2739,7 +2739,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-1368 COBREG",
      referencia: "N-1368",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2748,7 +2748,7 @@ const produtos = [
      item: "PASTILHA DE FREIO HQJ-2288A JURID",
      referencia: "HQJ-2288A",
      marca: "JURID",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2757,7 +2757,7 @@ const produtos = [
      item: "PASTILHA DE FREIO HQJ-2229A JURID",
      referencia: "HQJ-2229A",
      marca: "JURID",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2766,7 +2766,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-1166 COBREG",
      referencia: "N-1166",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2775,7 +2775,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-457 COBREG",
      referencia: "N-457",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2784,7 +2784,7 @@ const produtos = [
      item: "PASTILHA DE FREIO 1359 S.Y.L",
      referencia: 1359,
      marca: "S.Y.L",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2793,7 +2793,7 @@ const produtos = [
      item: "PASTILHA DE FREIO 2114 S.Y.L",
      referencia: 2114,
      marca: "S.Y.L",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2802,7 +2802,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-2031 COBREG",
      referencia: "N-2031",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2811,7 +2811,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-378 COBREG",
      referencia: "N-378",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2820,7 +2820,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-305 COBREG",
      referencia: "N-305",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2829,7 +2829,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-377 COBREG",
      referencia: "N-377",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2838,7 +2838,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-367 COBREG",
      referencia: "N-367",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2847,7 +2847,7 @@ const produtos = [
      item: "PASTILHA DE FREIO N-152 COBREG",
      referencia: "N-152",
      marca: "COBREG",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 0
     },
     {
@@ -2856,7 +2856,7 @@ const produtos = [
      item: "BATERIA MOURA MA60AD ",
      referencia: "MA60AD",
      marca: "MOURA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2865,7 +2865,7 @@ const produtos = [
      item: "SAPATOS COM LONAS PARA FREIOS CB\/49-CPA ",
      referencia: "CB\/49-CPA",
      marca: "FRANS.LE",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2874,7 +2874,7 @@ const produtos = [
      item: "SAPATOS COM LONAS PARA FREIOS FD\/152-CPA ",
      referencia: "FD\/152-CPA",
      marca: "FRANS.LE",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2883,7 +2883,7 @@ const produtos = [
      item: "CILINDRO DE RODA 19,05MM",
      referencia: "BWD6000:009",
      marca: "TRW",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2892,7 +2892,7 @@ const produtos = [
      item: "KIT ROLAMENTO DE RODA ALK-4529",
      referencia: "ALK-4529",
      marca: "IMA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2901,7 +2901,7 @@ const produtos = [
      item: "FILTRO DE AR WEGA AKX1992 ",
      referencia: "AKX1992",
      marca: "WEGA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2910,7 +2910,7 @@ const produtos = [
      item: "TERMINAL DE DIREÇÃO TS4121:009 TRW",
      referencia: "TS4121:009",
      marca: "TRW",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2919,7 +2919,7 @@ const produtos = [
      item: "KIT ROLAMENTO DE RODA VKBA 4544 SKF",
      referencia: "VKBA4544A",
      marca: "SKF",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2928,7 +2928,7 @@ const produtos = [
      item: "CILINDRO DE RODA 19MM 006013 ATF",
      referencia: 6013,
      marca: "ATF",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2937,7 +2937,7 @@ const produtos = [
      item: "CILINDRO DE RODA 17MM 005841 ATF",
      referencia: 5841,
      marca: "ATF",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2946,7 +2946,7 @@ const produtos = [
      item: "CILINDRO DE RODA RCCR02860:019 TRW",
      referencia: "RCCR02860:019",
      marca: "TRW",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2955,7 +2955,7 @@ const produtos = [
      item: "CILINDRO DE RODA RCCR028990:009 TRW",
      referencia: "RCCR02890:009",
      marca: "TRW",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2964,7 +2964,7 @@ const produtos = [
      item: "CILINDRO DE RODA BWF6000:009 (SPIN) TRW",
      referencia: "BWF6000:009",
      marca: "TRW",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2973,7 +2973,7 @@ const produtos = [
      item: "CILINDRO DE RODA C-3430 19,05MM CONTROIL",
      referencia: "C-3430",
      marca: "CONTROIL",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -2982,7 +2982,7 @@ const produtos = [
      item: "SAPATOS COM LONAS FD\/61-CPA ",
      referencia: "FD\/61-CPA ",
      marca: "FRANS.LE",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -2991,7 +2991,7 @@ const produtos = [
      item: "COLA EPOXI ORBI QUIMICA",
      referencia: "**",
      marca: "ORBI QUIMICA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3000,7 +3000,7 @@ const produtos = [
      item: "COLA DE SILICONE DRIKO ",
      referencia: "**",
      marca: "ORBI QUIMICA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 7
     },
     {
@@ -3009,7 +3009,7 @@ const produtos = [
      item: "VEDA ESCAPE ORBI QUIMICA ",
      referencia: "**",
      marca: "ORBI QUIMICA",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 2
     },
     {
@@ -3018,7 +3018,7 @@ const produtos = [
      item: "VALVULA TERMOSTATICA E2868802652AD WAHLER",
      referencia: "E2868802652AD",
      marca: "WAHLER",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3027,7 +3027,7 @@ const produtos = [
      item: "PLUG ELETRONICO 4099 ",
      referencia: 4099,
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3036,7 +3036,7 @@ const produtos = [
      item: "VALVULA DE EXPANSÃO TESMOSTATO",
      referencia: 93275736,
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 4
     },
     {
@@ -3045,7 +3045,7 @@ const produtos = [
      item: "TOMOSTATO RT1193",
      referencia: "RT1193",
      marca: "MOTORCRAFT",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3054,7 +3054,7 @@ const produtos = [
      item: "PARAFUSO ROSCADO TENSOR CORREIA 93373723",
      referencia: 93373723,
      marca: "GM",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 5
     },
     {
@@ -3072,7 +3072,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD8930",
      referencia: "BD8930",
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3081,7 +3081,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD3547",
      referencia: 4099,
      z: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3090,7 +3090,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD1440",
      referencia: 93275736,
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3099,7 +3099,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD5297",
      referencia: "RT1193",
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3108,7 +3108,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD5602",
      referencia: 93373723,
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3117,7 +3117,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD3108",
      referencia: 0,
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3126,7 +3126,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD1700",
      referencia: "BD8930",
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3135,7 +3135,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD1705",
      referencia: "BD3547",
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3144,7 +3144,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD3545",
      referencia: "BD1440",
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3153,7 +3153,7 @@ const produtos = [
      item: "DISCO DE FREIO FREMAX BD8929",
      referencia: "BD5297",
      marca: "FREMAX",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 1
     },
     {
@@ -3162,7 +3162,7 @@ const produtos = [
      item: "LAMPADA MULTILASER H7 12V 55W",
      referencia: "H7",
      marca: "MULTILASER",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 12,
      
     },
@@ -3172,7 +3172,7 @@ const produtos = [
      item: "ABRAÇADEIRA DE NYLON ETE7571 1,3MM PRETA",
      referencia: "BD3108",
      marca: "RAINHA DAS SETE",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 58
     },
     {
@@ -3181,7 +3181,7 @@ const produtos = [
      item: "ABRAÇADEIRA DE NYLON VERDE",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 18
     },
     {
@@ -3190,7 +3190,7 @@ const produtos = [
      item: "ABRAÇADEIRA DE NYLON VERMELHA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 46
     },
     {
@@ -3199,7 +3199,7 @@ const produtos = [
      item: "ABRAÇADEIRA DE NYLON AMARELA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 100
     },
     {
@@ -3208,7 +3208,7 @@ const produtos = [
      item: "ABRAÇADEIRA DE NYLON ETE7518 1,0MM PRETA",
      referencia: "ETE7518",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 0,
      quantidade: 100
     },
     {
@@ -3217,7 +3217,7 @@ const produtos = [
       item: "ABRAÇADEIRA DE NYLON BRANCA 1,45MM",
       referencia: "**",
       marca: "**",
-      quantidadeMin: 1,
+      quantidadeMin: 0,
       quantidade: 7
     },
     {
@@ -3226,7 +3226,7 @@ const produtos = [
       item: "ÓLEO PARA MOTOR MAXON LONGLIFE 5W40",
       referencia: "MO5W40",
       marca: "MAXON",
-      quantidadeMin: 1,
+      quantidadeMin: 0,
       quantidade: 12
     },
     {
@@ -3235,7 +3235,7 @@ const produtos = [
       item:"FILTRO DE AR WEGA JFA0H12",
       referencia:"JFAOH12",
       marca:"WEGA",
-      quantidadeMin: 1,
+      quantidadeMin: 0,
       quantidade: 1
     },
     {
@@ -3281,7 +3281,7 @@ const produtos = [
       item:"ÓLEO PARA MOTOR PETRONAS SYNTIUM 800 SE SP 10W30",
       referencia:"10w30",
       marca:"PETRONAS",
-      quantidadeMin: 12,
+      quantidadeMin: 02,
       quantidade: 19
     },
     {
