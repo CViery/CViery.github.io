@@ -67,7 +67,7 @@ const produtos = [
      referencia: "0W20",
      marca: "PETRONAS",
      quantidadeMin: 12,
-     quantidade: 26
+     quantidade: 53
     },
     {
      id: 8,
