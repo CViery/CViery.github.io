@@ -6,6 +6,14 @@ const users = [
     {
         name:"Admin",
         password:"admin"
+    },
+    {
+        name:"Marcos",
+        password: "1234"
+    },
+    {
+        name:"Gilberto",
+        password:"1234"
     }
 ]
    function validar() {
