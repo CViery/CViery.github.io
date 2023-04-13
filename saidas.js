@@ -246,7 +246,7 @@ const produtos = [
      item: "ÓLEO LUBRIFICANTE PARA CAIXA DE MUDANÇA MECANICA ISAFLUIDO556",
      referencia: "ISAFLUIDO 556",
      marca: "IPIRANGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 6
     },
     {
@@ -507,7 +507,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX 1965\/C WEGA",
      referencia: "AKX1965\/C",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -516,7 +516,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX2161 WEGA",
      referencia: "AKX2161",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 5
     },
     {
@@ -525,7 +525,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1937 WEGA",
      referencia: "AKXQ937",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -534,7 +534,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1939 WEGA",
      referencia: "AKX1939",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -543,7 +543,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35323 WEGA",
      referencia: "AKX35323",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 7
     },
     {
@@ -552,7 +552,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35321 WEGA",
      referencia: "AKX35321",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -561,7 +561,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1375 WEGA",
      referencia: "AKX1375",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -570,7 +570,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX 2108\/C WEGA",
      referencia: "AKX2108\/C",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -579,7 +579,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35293 WEGA",
      referencia: "AKX35293",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -588,7 +588,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35723 WEGA",
      referencia: "AKX35723",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 5
     },
     {
@@ -597,7 +597,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX3536 WEGA",
      referencia: "AKX3536",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -606,7 +606,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX3562 WEGA",
      referencia: "AKX3562",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -615,7 +615,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35159 WEGA",
      referencia: "AKX35159",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -624,7 +624,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35280 WEGA",
      referencia: "AKX35280",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -633,7 +633,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35281\/C WEGA",
      referencia: "AKX35281\/C",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -642,7 +642,7 @@ const produtos = [
      item: "FILTRO DE CABINE ACP312 TECFIL",
      referencia: "ACP312",
      marca: "TECFIL",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -651,7 +651,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35163 WEGA",
      referencia: "AKX35163",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -660,7 +660,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35634 WEGA",
      referencia: "AKX35634",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -669,7 +669,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1113\/C WEGA",
      referencia: "AKX1113\/C",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -678,7 +678,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1129F WEGA",
      referencia: "AKX1129F",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 5
     },
     {
@@ -687,7 +687,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1100\/C WEGA",
      referencia: "AKX1100\/C",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -696,7 +696,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX2007 WEGA",
      referencia: "AKX2007",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -705,7 +705,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1963 WEGA",
      referencia: "AKX1963",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -714,7 +714,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX2005 WEGA",
      referencia: "AKX2005",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -723,7 +723,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1974\/C WEGA",
      referencia: "AKX1974\/C",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -732,7 +732,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1958 WEGA",
      referencia: "AKX1958",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -741,7 +741,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1984 WEGA",
      referencia: "AKX1984",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 7
     },
     {
@@ -750,7 +750,7 @@ const produtos = [
      item: "FILTRO DE CABINE LA301 MAHLE",
      referencia: "LA301",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -759,7 +759,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1998 WEGA",
      referencia: "AKX1998",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -768,7 +768,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX2014 WEGA",
      referencia: "AKX2014",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -777,7 +777,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35347F WEGA",
      referencia: "AKX35347F",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -786,7 +786,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1959 WEGA",
      referencia: "AKX1959",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -795,7 +795,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1446 WEGA",
      referencia: "AKX1446",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -804,7 +804,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1399 WEGA",
      referencia: "AKX1399",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -813,7 +813,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1397 WEGA",
      referencia: "AKX1397",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 9
     },
     {
@@ -822,7 +822,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1215 WEGA ",
      referencia: "AKX1215",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -831,7 +831,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1956 WEGA",
      referencia: "AKX1956",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -840,7 +840,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1995 WEGA",
      referencia: "AKX1995",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -849,7 +849,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1993\/C WEGA",
      referencia: "AKX1993\/C",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -858,7 +858,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35126 WEGA ",
      referencia: "AKX35126",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -867,7 +867,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1971 WEGA",
      referencia: "AKX1971",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -876,7 +876,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX1701 WEGA",
      referencia: "AKX1701",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -885,7 +885,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35175F WEGA",
      referencia: "AKX35175F",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -894,7 +894,7 @@ const produtos = [
      item: "FILTRO DE CABINE LA1099\/S MAHLE",
      referencia: "LA1099\/S",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -903,7 +903,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35345-2 WEGA ",
      referencia: "AKX35345-2",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -912,7 +912,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX35157 WEGA",
      referencia: "AKX35157",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -921,7 +921,7 @@ const produtos = [
      item: "BATERIA MOURA M50JD",
      referencia: "50JD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -930,7 +930,7 @@ const produtos = [
      item: "ÓLEO PARA MOTOR MAXON MINERAL 20W50 API SL",
      referencia: "MO2050",
      marca: "MAXON",
-     quantidadeMin: 212,
+     quantidadeMin: 112,
      quantidade: 8
     },
     {
@@ -948,7 +948,7 @@ const produtos = [
      item: "FILTRO DE CABINE AKX 1456\/C WEGA",
      referencia: "AKX1456\/C",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -1020,7 +1020,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH11457 FRAM ",
      referencia: "PH11457",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -1029,7 +1029,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC1449 MAHLE(PH11457)",
      referencia: "PH11457",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1038,7 +1038,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OX339\/2D MAHLE",
      referencia: "OX339\/2D",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1047,7 +1047,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WOE624 WEGA",
      referencia: "WOE624",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1056,7 +1056,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO121 WEGA",
      referencia: "WO121",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1065,7 +1065,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO205 WEGA",
      referencia: "WO205",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -1074,7 +1074,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PSL76 TECFIL",
      referencia: "PSL76",
      marca: "TECFIL",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 0
     },
     {
@@ -1083,7 +1083,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO200 WEGA",
      referencia: "WO200",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1092,7 +1092,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH5796 FRAM ",
      referencia: "PH5796",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1101,7 +1101,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OX1018D  MAHLE",
      referencia: "OX1018D",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1110,7 +1110,7 @@ const produtos = [
      item: "FILTRO DE WOE313 WEGA",
      referencia: "WOE313",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1119,7 +1119,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OX1041D MAHLE ",
      referencia: "OX1041D",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -1128,7 +1128,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH4967 FRAM",
      referencia: "PH4967",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -1137,7 +1137,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH4967A FRAM",
      referencia: "PH4967A",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1146,7 +1146,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO133 WEGA",
      referencia: "WO133",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1155,7 +1155,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO181 WEGA",
      referencia: "WO181",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1164,7 +1164,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO139 WEGA",
      referencia: "WO139",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -1173,7 +1173,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OX175D MAHLE",
      referencia: "OX175D",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1182,7 +1182,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO WO156 WEGA",
      referencia: "WO156",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1191,7 +1191,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO JFOH00 WEGA",
      referencia: "JFOH00",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -1200,7 +1200,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO JFO0H01 WEGA",
      referencia: "JFO0H01",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1209,7 +1209,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC100 MAHLE",
      referencia: "OC100",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1218,7 +1218,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO JFO0F03 FRAM",
      referencia: "JFO0F03",
      marca: "WEGA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1227,7 +1227,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH3614 FRAM",
      referencia: "PH3614",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1236,7 +1236,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH5566 FRAM ",
      referencia: "PH5566",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1254,7 +1254,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC205 MAHLE ",
      referencia: "OC205",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1272,7 +1272,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC506 MAHLE",
      referencia: "OC506",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 5
     },
     {
@@ -1281,7 +1281,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC600 MAHLE ",
      referencia: "OC600",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 6
     },
     {
@@ -1290,7 +1290,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO OC522 MAHLE",
      referencia: "OC522",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1299,7 +1299,7 @@ const produtos = [
      item: "FILTRO DE ÓLEO PH10908 MIX 3\/2-2 FRAM",
      referencia: "PH10908",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -1308,7 +1308,7 @@ const produtos = [
      item: "BATERIA MOURA M79KD",
      referencia: "M79KD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1317,7 +1317,7 @@ const produtos = [
      item: "BATERIA MOURA M60GD",
      referencia: "M60GD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -1326,7 +1326,7 @@ const produtos = [
      item: "BATERIA MOURA M60GI",
      referencia: "M60GI",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1335,7 +1335,7 @@ const produtos = [
      item: "BATERIA MOURA MF60AD",
      referencia: "MF60AD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1344,7 +1344,7 @@ const produtos = [
      item: "BATERIA MOURA M80RD",
      referencia: "M80RD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1353,7 +1353,7 @@ const produtos = [
      item: "BATERIA MOURA M75LD",
      referencia: "M75LD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1362,7 +1362,7 @@ const produtos = [
      item: "BATERIA MOURA M60AD",
      referencia: "M60AD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -1371,7 +1371,7 @@ const produtos = [
      item: "BATERIA MOURA M40SD",
      referencia: "M40SD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 4
     },
     {
@@ -1380,7 +1380,7 @@ const produtos = [
      item: "BATERIA MOURA M48FD",
      referencia: "M48FD",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 3
     },
     {
@@ -1389,7 +1389,7 @@ const produtos = [
      item: "BATERIA MOURA M50ED",
      referencia: "M50ED",
      marca: "MOURA",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 9
     },
     {
@@ -1443,7 +1443,7 @@ const produtos = [
      item: "FILTRO DE COMBUSTIVEL G5188 FRAM",
      referencia: "G5188",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 1
     },
     {
@@ -1452,7 +1452,7 @@ const produtos = [
      item: "FILTRO DE COMBUSTIVEL KL420 MAHLE ",
      referencia: "KL420",
      marca: "MAHLE",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -1461,7 +1461,7 @@ const produtos = [
      item: "FILTRO DE COMBUSTIVEL G10226F FRAM",
      referencia: "G10226F",
      marca: "FRAM",
-     quantidadeMin: 2,
+     quantidadeMin: 1,
      quantidade: 2
     },
     {
@@ -3063,7 +3063,7 @@ const produtos = [
      item: "FRANELA AZUL",
      referencia: "AZUL",
      marca: "**",
-     quantidadeMin: 20,
+     quantidadeMin: 10,
      quantidade: 120
     },
     {
