@@ -175,7 +175,7 @@ const produtos = [
      referencia: "10W40",
      marca: "PETRONAS",
      quantidadeMin: 12,
-     quantidade: 22
+     quantidade: 19
     },
     {
      id: 20,
@@ -535,7 +535,7 @@ const produtos = [
      referencia: "AKX1939",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 5
+     quantidade: 4
     },
     {
      id: 60,
@@ -904,7 +904,7 @@ const produtos = [
      referencia: "AKX35345-2",
      marca: "WEGA",
      quantidadeMin: 3,
-     quantidade: 2
+     quantidade: 1
     },
     {
      id: 101,
@@ -1075,7 +1075,7 @@ const produtos = [
      referencia: "PSL76",
      marca: "TECFIL",
      quantidadeMin: 3,
-     quantidade: 1
+     quantidade: 0
     },
     {
      id: 120,
@@ -1282,7 +1282,7 @@ const produtos = [
      referencia: "OC600",
      marca: "MAHLE",
      quantidadeMin: 3,
-     quantidade: 7
+     quantidade: 6
     },
     {
      id: 143,
@@ -1426,7 +1426,7 @@ const produtos = [
      referencia: "KL582",
      marca: "MAHLE",
      quantidadeMin: 5,
-     quantidade: 22
+     quantidade: 20
     },
     {
      id: 159,
@@ -1480,7 +1480,7 @@ const produtos = [
      referencia: 53902538,
      marca: "WURTH",
      quantidadeMin: 1,
-     quantidade: 24
+     quantidade: 2
     },
     {
      id: 165,
@@ -1507,7 +1507,7 @@ const produtos = [
      referencia: "W77",
      marca: "WURTH",
      quantidadeMin: 1,
-     quantidade: 6
+     quantidade: 5
     },
     {
      id: 168,
@@ -1668,7 +1668,7 @@ const produtos = [
      item: "ANEL DE BUJÃO CHEVROLET",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 0
     },
     {
@@ -1677,7 +1677,7 @@ const produtos = [
      item: "ANEL DE BUJÃO FIAT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 1
     },
     {
@@ -1686,7 +1686,7 @@ const produtos = [
      item: "ANEL DE BUJÃO PEUGEOT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 8
     },
     {
@@ -1695,8 +1695,8 @@ const produtos = [
      item: "AENL DE BUJÃO RENAULT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
-     quantidade: 12
+     quantidadeMin: 10,
+     quantidade: 11
     },
     {
      id: 189,
@@ -1704,7 +1704,7 @@ const produtos = [
      item: "ANEL DE BUJÃO FORD",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 18
     },
     {
@@ -1713,8 +1713,8 @@ const produtos = [
      item: "ANEL DE BUJÃO HONDA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
-     quantidade: 6
+     quantidadeMin: 10,
+     quantidade: 4
     },
     {
      id: 191,
@@ -1722,7 +1722,7 @@ const produtos = [
      item: "ANEL DE BUJÃO TOYOTA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 24
     },
     {
@@ -1731,7 +1731,7 @@ const produtos = [
      item: "ANEL DE BUJÃO VW",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 67
     },
     {
@@ -1935,11 +1935,11 @@ const produtos = [
     {
      id: 215,
      codigo: "JFA0428\/3",
-     item: "FILTRO DE AR WEGA FAP0428\/3",
-     referencia: "FAP9013",
+     item: "FILTRO DE AR WEGA JFA0428\/3",
+     referencia: "JFA9013",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 2
+     quantidade: 1
     },
     {
      id: 216,
@@ -2337,7 +2337,7 @@ const produtos = [
      quantidadeMin: 1,
      quantidade: 2
     },
-    {
+   /*  {
      id: 260,
      codigo: 50103402,
      item: "INJETOR DE COMBUSTIVEL VW",
@@ -2345,7 +2345,7 @@ const produtos = [
      marca: "MAGNETE MARELLI",
      quantidadeMin: 1,
      quantidade: 0
-    },
+    }, */
     {
      id: 261,
      codigo: "ES20331-13B1",
@@ -2371,7 +2371,7 @@ const produtos = [
      referencia: "FAP5218",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 1
+     quantidade: 0
     },
     {
      id: 264,
@@ -3274,6 +3274,24 @@ const produtos = [
       marca:"ACDELCO",
       quantidadeMin:10,
       quantidade:48
+    },
+    {
+      id:388,
+      codigo:" ",
+      item:"ÓLEO PARA MOTOR PETRONAS SYNTIUM 800 SE SP 10W30",
+      referencia:"10w30",
+      marca:"PETRONAS",
+      quantidadeMin: 12,
+      quantidade: 19
+    },
+    {
+      id:389,
+      codigo:"",
+      item: "ANEL BUJÃO RENAULT",
+      referencia: "",
+      marca:"",
+      quantidadeMin:10,
+      quantidade:12
     }
 
    ]
