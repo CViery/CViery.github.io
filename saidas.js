@@ -1480,7 +1480,7 @@ const produtos = [
      referencia: 53902538,
      marca: "WURTH",
      quantidadeMin: 1,
-     quantidade: 25
+     quantidade: 24
     },
     {
      id: 165,
