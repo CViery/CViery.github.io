@@ -1,6 +1,6 @@
 const alertamin = ()=>{
     for (let i = 0; i < produtos.length; i++) {
-      if (produtos[i].quantidade < produtos[i].quantidadeMin) {
+      if (produtos[i].quantidade <= 1) {
         let card = document.createElement('div');
         card.classList.add('card');
         card.innerHTML = `
@@ -11,7 +11,7 @@ const alertamin = ()=>{
         // Adiciona o card à página
         let cardsContainer = document.getElementById('cards');
         cardsContainer.appendChild(card);
-      } else if (produtos[i].quantidade == produtos[i].quantidadeMin) {
+      } /* else if (produtos[i].quantidade == produtos[i].quantidadeMin) {
         let card = document.createElement('div');
         card.classList.add('cardB');
         card.innerHTML = `
@@ -22,7 +22,7 @@ const alertamin = ()=>{
         // Adiciona o card à página
         let cardsContainer = document.getElementById('cards');
         cardsContainer.appendChild(card);
-      }
+      } */
     }
   }
   alertamin()
