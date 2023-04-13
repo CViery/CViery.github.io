@@ -1668,7 +1668,7 @@ const produtos = [
      item: "ANEL DE BUJÃO CHEVROLET",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 0
     },
     {
@@ -1677,7 +1677,7 @@ const produtos = [
      item: "ANEL DE BUJÃO FIAT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 1
     },
     {
@@ -1686,7 +1686,7 @@ const produtos = [
      item: "ANEL DE BUJÃO PEUGEOT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 8
     },
     {
@@ -1695,8 +1695,8 @@ const produtos = [
      item: "AENL DE BUJÃO RENAULT",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
-     quantidade: 12
+     quantidadeMin: 10,
+     quantidade: 11
     },
     {
      id: 189,
@@ -1704,7 +1704,7 @@ const produtos = [
      item: "ANEL DE BUJÃO FORD",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 18
     },
     {
@@ -1713,8 +1713,8 @@ const produtos = [
      item: "ANEL DE BUJÃO HONDA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
-     quantidade: 5
+     quantidadeMin: 10,
+     quantidade: 4
     },
     {
      id: 191,
@@ -1722,7 +1722,7 @@ const produtos = [
      item: "ANEL DE BUJÃO TOYOTA",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 24
     },
     {
@@ -1731,7 +1731,7 @@ const produtos = [
      item: "ANEL DE BUJÃO VW",
      referencia: "**",
      marca: "**",
-     quantidadeMin: 1,
+     quantidadeMin: 10,
      quantidade: 67
     },
     {
