@@ -25,6 +25,8 @@ const users = [
         if (userName == iName && password == iPass) {
             alert(`Olá! ${userName}, sejá bem vindo!`);
             window.location.href = './home.html';
+        }else{
+            alert("usuario não cadastrado")
         }
     }}
     
