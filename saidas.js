@@ -418,7 +418,7 @@ const produtos = [
      referencia: "5PK1770",
      marca: "CONTINENTAL",
      quantidadeMin: 0,
-     quantidade: 0
+     quantidade: 1
     },
     {
      id: 47,
