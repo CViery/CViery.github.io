@@ -1092,6 +1092,7 @@ const produtos = [
     },
     {
      id: 107,
+     img:"https://maxonoil.com.br/wp-content/uploads/2022/12/06_ULTRA-0W20-API-SN-_-ILSAC-GF-5-1024x1024.png",
      codigo: "MO020",
      item: "ÓLEO PARA MOTOR MAXON SINTÉTICO 0W20",
      referencia: "MO020",
@@ -1101,8 +1102,9 @@ const produtos = [
     },
     {
      id: 108,
+     img:"https://maxonoil.com.br/wp-content/uploads/2022/12/17_LONG-LIFE-10W30-API-SL.png",
      codigo: "MO1030",
-     item: "ÓLEO PARA MOTOR MAXON LONGLIFE 10W30 ",
+     item: "ÓLEO PARA MOTOR MAXON LONGLIFE 10W30",
      referencia: "MO1030",
      marca: "MAXON",
      quantidadeMin: 0,
@@ -1110,6 +1112,7 @@ const produtos = [
     },
     {
      id: 109,
+     img:"https://maxonoil.com.br/wp-content/uploads/2022/12/14_LONG-LIFE-5W30-API-SL.png",
      codigo: "MO530",
      item: "ÓLEO PARA MOTOR MAXON LONGLIFE 5W30",
      referencia: "MO530",
@@ -1119,8 +1122,9 @@ const produtos = [
     },
     {
      id: 110,
+     img:"https://21350.cdn.simplo7.net/static/21350/sku/82257649842-1-Pke885.png",
      codigo: 300200,
-     item: "CAR LUB LUBRIFICANTE ANTIFERRUGEM CAR80 ",
+     item: "CAR LUB LUBRIFICANTE ANTIFERRUGEM CAR80",
      referencia: 300200,
      marca: "CAR80",
      quantidadeMin: 0,
@@ -1128,6 +1132,7 @@ const produtos = [
     },
     {
      id: 111,
+     img:"https://alvoradalub.com.br/wp-content/uploads/2016/08/42.png",
      codigo: 300230,
      item: "CAR80 TUNE UP FORMULA PARA LIMPAR BICOS INJETORES CAR80",
      referencia: 300230,
@@ -1137,6 +1142,7 @@ const produtos = [
     },
     {
      id: 112,
+     img:"https://57329.cdn.simplo7.net/static/57329/sku/quimicos-manutencao-em-geral-limpa-contato-eletrico-revome-graxas-residuos-de-umidade-que-prejudicam-os-contatos-eletricos-e-eletronicos-recupera-a-condutividade-dos-contatos-limpa-e-seca-instantaneamente-300ml-200g-marca-snap-on--1648764822260.png",
      codigo: 300200,
      item: "CAR CONTATO LIMPA CONTATO CAR80",
      referencia: 300200,
@@ -1146,6 +1152,7 @@ const produtos = [
     },
     {
      id: 113,
+     img:"https://images.tcdn.com.br/img/img_prod/1039962/filtro_de_oleo_fram_ph11457_golf_fox_polo_virtus_audi_a3_a3_sedan_237_1_9ba417cb6cef70f475908180e1a1164e.jpg",
      codigo: "PH11457",
      item: "FILTRO DE ÓLEO PH11457 FRAM ",
      referencia: "PH11457",
@@ -1155,6 +1162,7 @@ const produtos = [
     },
     {
      id: 114,
+     img:"https://autorama.vtexassets.com/arquivos/ids/174911/816282.jpg?v=637744205199370000",
      codigo: "OC1449",
      item: "FILTRO DE ÓLEO OC1449 MAHLE(PH11457)",
      referencia: "PH11457",
@@ -1164,6 +1172,7 @@ const produtos = [
     },
     {
      id: 115,
+     img:"https://http2.mlstatic.com/D_NQ_NP_657219-MLB50175033990_062022-O.webp",
      codigo: "OX339\/2D",
      item: "FILTRO DE ÓLEO OX339\/2D MAHLE",
      referencia: "OX339\/2D",
@@ -1173,6 +1182,7 @@ const produtos = [
     },
     {
      id: 116,
+     img:"https://wega.com.ar/uploads/WOE%20624.jpg",
      codigo: "WOE624",
      item: "FILTRO DE ÓLEO WOE624 WEGA",
      referencia: "WOE624",
@@ -1182,6 +1192,7 @@ const produtos = [
     },
     {
      id: 117,
+     img:"https://wega.com.ar/uploads/WO-121.jpg",
      codigo: "WO121",
      item: "FILTRO DE ÓLEO WO121 WEGA",
      referencia: "WO121",
@@ -1191,6 +1202,7 @@ const produtos = [
     },
     {
      id: 118,
+     img:"https://wega.com.ar/uploads/WO-205.jpg",
      codigo: "WO205",
      item: "FILTRO DE ÓLEO WO205 WEGA",
      referencia: "WO205",
@@ -1200,6 +1212,7 @@ const produtos = [
     },
     {
      id: 119,
+     img:"https://images.tcdn.com.br/img/img_prod/1027273/filtro_de_oleo_lubrificante_tecfil_psl76_749_1_3e3218c9a4840daef686fb386c6f2717_20221031175046.jpg",
      codigo: "PSL76",
      item: "FILTRO DE ÓLEO PSL76 TECFIL",
      referencia: "PSL76",
@@ -1209,6 +1222,7 @@ const produtos = [
     },
     {
      id: 120,
+     img:"https://wega.com.ar/uploads/WO-200.jpg",
      codigo: "WO200",
      item: "FILTRO DE ÓLEO WO200 WEGA",
      referencia: "WO200",
@@ -1218,6 +1232,7 @@ const produtos = [
     },
     {
      id: 121,
+     img:"https://images.cws.digital/produtos/gg/82/66/filtro-de-oleo-1036682-1372122956659.jpg",
      codigo: "PH5796",
      item: "FILTRO DE ÓLEO PH5796 FRAM ",
      referencia: "PH5796",
@@ -1227,8 +1242,9 @@ const produtos = [
     },
     {
      id: 122,
+     img:"https://decorpecas.fbitsstatic.net/img/p/filtro-de-oleo-do-motor-mahle-ox1018d-cruze-2011-a-2018-tracker-2014-a-2016-sonic-72140/258650.jpg?w=520&h=520&v=no-change&qs=ignore",
      codigo: "OX1018D",
-     item: "FILTRO DE ÓLEO OX1018D  MAHLE",
+     item: "FILTRO DE ÓLEO OX1018D MAHLE",
      referencia: "OX1018D",
      marca: "MAHLE",
      quantidadeMin: 1,
@@ -1236,6 +1252,7 @@ const produtos = [
     },
     {
      id: 123,
+     img:"https://wega.com.ar/uploads/WOE-313.jpg",
      codigo: "WOE313",
      item: "FILTRO DE WOE313 WEGA",
      referencia: "WOE313",
@@ -1245,6 +1262,7 @@ const produtos = [
     },
     {
      id: 124,
+     img:"https://a-static.mlcdn.com.br/1500x1500/filtro-de-oleo-mahle-ox1041d-corolla-1-8-2-0/almanaquedaspecas/25029corolla/fcf97422c0b5bc380657190a5ad802a5.jpeg",
      codigo: "OX1041D",
      item: "FILTRO DE ÓLEO OX1041D MAHLE ",
      referencia: "OX1041D",
@@ -1254,6 +1272,7 @@ const produtos = [
     },
     {
      id: 125,
+     img:"https://images.tcdn.com.br/img/img_prod/1039962/filtro_de_oleo_fram_ph4967_linha_toyota_corolla_etios_suzuki_lifan_83_1_1feed41fae8328472c9d9d23e089117c.jpg",
      codigo: "PH4967",
      item: "FILTRO DE ÓLEO PH4967 FRAM",
      referencia: "PH4967",
@@ -1263,6 +1282,7 @@ const produtos = [
     },
     {
      id: 126,
+     img:"https://i0.wp.com/hiperbr.com.br/wp-content/uploads/2022/05/840-2.jpg?fit=1280%2C960&ssl=1",
      codigo: "PH4967A",
      item: "FILTRO DE ÓLEO PH4967A FRAM",
      referencia: "PH4967A",
@@ -1272,6 +1292,7 @@ const produtos = [
     },
     {
      id: 127,
+     img:"https://wega.com.ar/uploads/WO-133.jpg",
      codigo: "WO133",
      item: "FILTRO DE ÓLEO WO133 WEGA",
      referencia: "WO133",
@@ -1281,6 +1302,7 @@ const produtos = [
     },
     {
      id: 128,
+     img:"https://wega.com.ar/uploads/WO-181.jpg",
      codigo: "WO181",
      item: "FILTRO DE ÓLEO WO181 WEGA",
      referencia: "WO181",
@@ -1290,6 +1312,7 @@ const produtos = [
     },
     {
      id: 129,
+     img:"https://wega.com.ar/uploads/WO-139.jpg",
      codigo: "WO139",
      item: "FILTRO DE ÓLEO WO139 WEGA",
      referencia: "WO139",
@@ -1299,6 +1322,7 @@ const produtos = [
     },
     {
      id: 130,
+     img:"https://http2.mlstatic.com/D_NQ_NP_609993-MLB52507190750_112022-V.jpg",
      codigo: "OX175D",
      item: "FILTRO DE ÓLEO OX175D MAHLE",
      referencia: "OX175D",
@@ -1308,6 +1332,7 @@ const produtos = [
     },
     {
      id: 131,
+     img:"https://wega.com.ar/uploads/WO-156.jpg",
      codigo: "WO156",
      item: "FILTRO DE ÓLEO WO156 WEGA",
      referencia: "WO156",
@@ -1317,6 +1342,7 @@ const produtos = [
     },
     {
      id: 132,
+     img:"https://images.tcdn.com.br/img/img_prod/1027273/filtro_de_oleo_lubrificante_hyundai_hb20_hb20s_creta_nissan_versa_e_renault_captur_duster_duster_oro_713_1_16515510efcdc7a3289d14b60bb34684_20221031175106.jpg",
      codigo: "JFOH00",
      item: "FILTRO DE ÓLEO JFOH00 WEGA",
      referencia: "JFOH00",
@@ -1326,6 +1352,7 @@ const produtos = [
     },
     {
      id: 133,
+     img:"https://wega.com.ar/uploads/JFO%20H01.jpg",
      codigo: "JFO0H01",
      item: "FILTRO DE ÓLEO JFO0H01 WEGA",
      referencia: "JFO0H01",
@@ -1335,6 +1362,7 @@ const produtos = [
     },
     {
      id: 134,
+     img:"https://a-static.mlcdn.com.br/1500x1500/filtro-de-oleo-lubrificante-mahle-metalleve-oc600/evolutionstorejpcasabona1/117/4866cc31854520f34a839bb321b52527.jpg",
      codigo: "OC100",
      item: "FILTRO DE ÓLEO OC100 MAHLE",
      referencia: "OC100",
@@ -1344,8 +1372,9 @@ const produtos = [
     },
     {
      id: 135,
+     img:"https://wega.com.ar/uploads/JFO%20F03.jpg",
      codigo: "JFO0F03",
-     item: "FILTRO DE ÓLEO JFO0F03 FRAM",
+     item: "FILTRO DE ÓLEO JFO0F03 WEGA",
      referencia: "JFO0F03",
      marca: "WEGA",
      quantidadeMin: 1,
@@ -1353,6 +1382,7 @@ const produtos = [
     },
     {
      id: 136,
+     img:"https://raceking.com.br/media/catalog/product/cache/3/image/650x/040ec09b1e35df139433887a97daa66f/p/h/ph3614_3.jpg",
      codigo: "PH3614",
      item: "FILTRO DE ÓLEO PH3614 FRAM",
      referencia: "PH3614",
@@ -1362,8 +1392,9 @@ const produtos = [
     },
     {
      id: 137,
+     img:"https://images.tcdn.com.br/img/img_prod/1039962/filtro_de_oleo_fram_ph5566_peugeot_106_206_208_307_renault_laguna_subaru_impreza_85_1_8c6d4a5433379365f0bb26f3c055959f.jpg",
      codigo: "PH5566",
-     item: "FILTRO DE ÓLEO PH5566 FRAM ",
+     item: "FILTRO DE ÓLEO PH5566 FRAM",
      referencia: "PH5566",
      marca: "FRAM",
      quantidadeMin: 1,
@@ -1371,6 +1402,7 @@ const produtos = [
     },
     {
      id: 138,
+     img:"https://http2.mlstatic.com/D_NQ_NP_928274-MLB53099842542_122022-O.jpg",
      codigo: "PH3593A",
      item: "FILTRO DE ÓLEO PH3593A FRAM",
      referencia: "PH3593A",
@@ -1380,8 +1412,9 @@ const produtos = [
     },
     {
      id: 139,
+     img:"https://http2.mlstatic.com/D_NQ_NP_824428-MLB27584197963_062018-O.webp",
      codigo: "OC205",
-     item: "FILTRO DE ÓLEO OC205 MAHLE ",
+     item: "FILTRO DE ÓLEO OC205 MAHLE",
      referencia: "OC205",
      marca: "MAHLE",
      quantidadeMin: 1,
@@ -1389,6 +1422,7 @@ const produtos = [
     },
     {
      id: 140,
+     img:"https://http2.mlstatic.com/D_NQ_NP_870730-MLB51481994870_092022-O.webp",
      codigo: "OC504",
      item: "FILTRO DE ÓLEO OC504 MAHLE",
      referencia: "OC504",
@@ -1398,6 +1432,7 @@ const produtos = [
     },
     {
      id: 141,
+     img:"https://decorpecas.fbitsstatic.net/img/p/filtro-de-oleo-do-motor-mahle-oc506-audi-fiat-147-uno-escort-focus-ecosport-ka-fiesta-hilux-72206/258716.jpg?w=520&h=520&v=no-change&qs=ignore",
      codigo: "OC506",
      item: "FILTRO DE ÓLEO OC506 MAHLE",
      referencia: "OC506",
@@ -1407,8 +1442,9 @@ const produtos = [
     },
     {
      id: 142,
+     img:"https://http2.mlstatic.com/D_NQ_NP_893927-MLB51498396142_092022-O.jpg",
      codigo: "OC600",
-     item: "FILTRO DE ÓLEO OC600 MAHLE ",
+     item: "FILTRO DE ÓLEO OC600 MAHLE",
      referencia: "OC600",
      marca: "MAHLE",
      quantidadeMin: 1,
@@ -1416,6 +1452,7 @@ const produtos = [
     },
     {
      id: 143,
+     img:"https://vitoriacenterparts.com/wp-content/uploads/2020/01/filtro-de-oleo-gol-g4-g5-voyage-saveiro-10-16-1500683964.jpg",
      codigo: "OC522",
      item: "FILTRO DE ÓLEO OC522 MAHLE",
      referencia: "OC522",
@@ -1425,6 +1462,7 @@ const produtos = [
     },
     {
      id: 144,
+     img:"https://http2.mlstatic.com/D_NQ_NP_896663-MLA53661754069_022023-V.jpg",
      codigo: "PH10908",
      item: "FILTRO DE ÓLEO PH10908 MIX 3\/2-2 FRAM",
      referencia: "PH10908",
@@ -1434,8 +1472,9 @@ const produtos = [
     },
     {
      id: 145,
+     img:"https://http2.mlstatic.com/D_NQ_NP_683686-MLB47428967953_092021-V.jpg",
      codigo: "M70KD",
-     item: "BATERIA MOURA M79KD",
+     item: "BATERIA MOURA M70KD",
      referencia: "M79KD",
      marca: "MOURA",
      quantidadeMin: 1,
@@ -1443,6 +1482,7 @@ const produtos = [
     },
     {
      id: 146,
+     img:"https://http2.mlstatic.com/D_NQ_NP_648964-MLB49576472451_042022-O.jpg",
      codigo: "M60GD",
      item: "BATERIA MOURA M60GD",
      referencia: "M60GD",
@@ -1452,6 +1492,7 @@ const produtos = [
     },
     {
      id: 147,
+     img:"",
      codigo: "M60GI",
      item: "BATERIA MOURA M60GI",
      referencia: "M60GI",
@@ -1461,6 +1502,7 @@ const produtos = [
     },
     {
      id: 148,
+     img:"",
      codigo: "MF60AD",
      item: "BATERIA MOURA MF60AD",
      referencia: "MF60AD",
@@ -1470,6 +1512,7 @@ const produtos = [
     },
     {
      id: 149,
+     img:"",
      codigo: "M80RD",
      item: "BATERIA MOURA M80RD",
      referencia: "M80RD",
@@ -1524,6 +1567,7 @@ const produtos = [
     },
     {
      id: 155,
+     img:"https://cdn.awsli.com.br/600x450/490/490850/produto/45372367/21a13a9a37.jpg",
      codigo: "KL635",
      item: "FILTRO DE COMBUSTIVEL KL635 MAHLE",
      referencia: "KL635",
@@ -1533,6 +1577,7 @@ const produtos = [
     },
     {
      id: 156,
+     img:"https://wega.com.ar/uploads/JFC-F00.jpg",
      codigo: "JFCF00",
      item: "FILTRO DE COMBUSTIVEL JFCF00 WEGA ",
      referencia: "JFCF00",
@@ -1542,6 +1587,7 @@ const produtos = [
     },
     {
      id: 157,
+     img:"https://images.tcdn.com.br/img/img_prod/1039962/filtro_de_combustivel_fram_g9889f_gm_2_0_2_4_03_119_1_f95c9b815ceb03c2ab50cfaf5f98280b.jpg",
      codigo: "G9889F",
      item: "FILTRO DE COMBUSTIVEL G9889F FRAM",
      referencia: "G9889F",
@@ -1551,6 +1597,7 @@ const produtos = [
     },
     {
      id: 158,
+     img:"https://http2.mlstatic.com/D_NQ_NP_815395-MLB47981444396_102021-O.jpg",
      codigo: "KL582",
      item: "FILTRO DE COMBUSTIVEL KL582 MAHLE",
      referencia: "KL582",
@@ -1560,6 +1607,7 @@ const produtos = [
     },
     {
      id: 159,
+     img:"https://cf.shopee.com.br/file/3f476c65e578cd9dd7e1d6ea3b628146",
      codigo: "KL583",
      item: "FILTRO DE COMBUSTIVEL KL583 MAHLE",
      referencia: "KL583",
@@ -1569,6 +1617,7 @@ const produtos = [
     },
     {
      id: 160,
+     img:"https://a-static.mlcdn.com.br/1500x1500/filtro-de-combustivel-gol-corcel-fiat-gm-alcool-gasolina-fram/autopecasfama/120746/cf13e90fc9f6fc5f4e431c5ec1bab93f.jpeg",
      codigo: "G5188",
      item: "FILTRO DE COMBUSTIVEL G5188 FRAM",
      referencia: "G5188",
@@ -1578,8 +1627,9 @@ const produtos = [
     },
     {
      id: 161,
+     img:"https://images.cws.digital/produtos/gg/36/22/filtro-de-combustivel-1352236-1628283927063.jpg",
      codigo: "KL420",
-     item: "FILTRO DE COMBUSTIVEL KL420 MAHLE ",
+     item: "FILTRO DE COMBUSTIVEL KL420 MAHLE",
      referencia: "KL420",
      marca: "MAHLE",
      quantidadeMin: 1,
@@ -1587,6 +1637,7 @@ const produtos = [
     },
     {
      id: 162,
+     img:"https://images.tcdn.com.br/img/img_prod/1039962/filtro_combustivel_fram_g10226f_ford_123_2_b97ad403a81aef6ffca2cd4c42022c09.jpg",
      codigo: "G10226F",
      item: "FILTRO DE COMBUSTIVEL G10226F FRAM",
      referencia: "G10226F",
@@ -1596,6 +1647,7 @@ const produtos = [
     },
     {
      id: 163,
+     img:"https://d3kgto4geuj773.cloudfront.net/Custom/Content/Products/20/74/20742_abracadeira-ac-rosca-s-fim-l-9mm-32-50-1144_m2_638051335258849450.png",
      codigo: 53903851,
      item: "ABRAÇADEIRA SEM FIM ZN 32X50X9",
      referencia: 53903851,
@@ -1605,15 +1657,17 @@ const produtos = [
     },
     {
      id: 164,
+     img:"https://images.tcdn.com.br/img/img_prod/1100542/abracadeira_rosca_sem_fim_super_25_38_fita_9mm_valor_un_metal_matrix_429_1_7df5e74f6e92e54e618396842c0553f8.jpg",
      codigo: 53902538,
      item: "ABRAÇADEIRA SEM FIM ZN 25X40X9",
      referencia: 53902538,
      marca: "WURTH",
      quantidadeMin: 0,
-     quantidade: 2
+     quantidade: 23
     },
     {
      id: 165,
+     img:"https://images.tcdn.com.br/img/img_prod/1100542/abracadeira_rosca_sem_fim_super_25_38_fita_9mm_valor_un_metal_matrix_429_1_7df5e74f6e92e54e618396842c0553f8.jpg",
      codigo: 53901422,
      item: "ABRAÇADEIRA SEM FIM ZNB 12X22X9",
      referencia: 53901422,
@@ -1623,6 +1677,7 @@ const produtos = [
     },
     {
      id: 166,
+     img:"https://images.tcdn.com.br/img/img_prod/1100542/abracadeira_rosca_sem_fim_super_25_38_fita_9mm_valor_un_metal_matrix_429_1_7df5e74f6e92e54e618396842c0553f8.jpg",
      codigo: 53901216,
      item: "ABRAÇADEIRA SEM FIM ZN 10X16X9",
      referencia: 53901216,
@@ -1632,6 +1687,7 @@ const produtos = [
     },
     {
      id: 167,
+     img:"https://images.cws.digital/produtos/gg/87/27/trava-roscas-torque-alto-w777-10g-7492787-1677873411323.jpg",
      codigo: "W77",
      item: "TRAVA ROSCA W77 WURTH",
      referencia: "W77",
@@ -1641,6 +1697,7 @@ const produtos = [
     },
     {
      id: 168,
+     img:"https://varimax.fbitsstatic.net/img/p/arruela-de-vedacao-em-aluminio-14-x-20-x-1-5mm-50-unidades-81278/267797.jpg?w=420&h=420&v=no-change&qs=ignore",
      codigo: "A230764",
      item: "ARRUELA VED ALUMINIO 14.0X20.0 X1.5MM",
      referencia: "A230764",
@@ -1650,6 +1707,7 @@ const produtos = [
     },
     {
      id: 169,
+     img:"https://cdn.awsli.com.br/300x300/1820/1820493/produto/186142786c9ed5aae85.jpg",
      codigo: 892140127,
      item: "VERNIZ DE MOTOR WURTH 1L",
      referencia: 892140127,
@@ -1659,8 +1717,9 @@ const produtos = [
     },
     {
      id: 170,
+     img:"",
      codigo: "D3B5-9A299-AD",
-     item: "EMISSOR DE COMBUSTIVEL FORD ",
+     item: "EMISSOR DE COMBUSTIVEL FORD",
      referencia: "D3B5-9A299-AD",
      marca: "FORD",
      quantidadeMin: 0,
@@ -1668,6 +1727,7 @@ const produtos = [
     },
     {
      id: 171,
+     img:"https://http2.mlstatic.com/D_NQ_NP_721605-MLB31199675225_062019-O.jpg",
      codigo: "T010140",
      item: "SENSOR DE COMBUSTIVEL TSA",
      referencia: "T010140",
@@ -1677,6 +1737,7 @@ const produtos = [
     },
     {
      id: 172,
+     img:"https://cf.shopee.com.br/file/bec2b792a7c241d80898d49d24c7fe56",
      codigo: "ARB10",
      item: "BOMBA DE COMBUSTIVEL EUROTEAM",
      referencia: "ARB10",
@@ -1686,6 +1747,7 @@ const produtos = [
     },
     {
      id: 173,
+     img:"https://a-static.mlcdn.com.br/800x560/boia-sensor-nivel-combustivel-gol-voyage-saveiro-parati-original-bosch-f000te182b/sonnicparts/6479p/beec4dcef0dacad0a590ee20597fd184.jpeg",
      codigo: "F000TE176V",
      item: "SENSOR DE COMBUSTIVEL BOSCH",
      referencia: "F000TE176V",
@@ -1695,6 +1757,7 @@ const produtos = [
     },
     {
      id: 174,
+     img:"https://images.cws.digital/produtos/gg/91/68/arruela-de-cobre-para-bujao-de-carter-nissan-11-x-17mm-pacote-com-50-unida-7526891-1677874656048.jpg",
      codigo: "**",
      item: "ARRUELA DE BUJÃO NISSAN",
      referencia: "**",
@@ -1776,6 +1839,7 @@ const produtos = [
     },
     {
      id: 183,
+     img:"https://images.tcdn.com.br/img/img_prod/424007/kit_20_anel_de_vedacao_preto_ks_aquecedores_oring_6875_2_70e4deae3ec75d7fc8f60232b03eb832_20220620092455.jpg",
      codigo: "**",
      item: "ANEL DE VEDAÇÃO PRETO",
      referencia: "**",
@@ -1785,6 +1849,7 @@ const produtos = [
     },
     {
      id: 184,
+     img:"https://lojachevroletnova.vteximg.com.br/arquivos/ids/12791566-799-799/12616850.jpg?v=637937704529070000",
      codigo: "**",
      item: "ANEL BUJÃO AZUL BORRACHA",
      referencia: "**",
@@ -1794,6 +1859,7 @@ const produtos = [
     },
     {
      id: 185,
+     img:"https://vipesbr.com/fotos/1/1/oring%20bujao%20original%20prisma%20gm%20nova%20linha.jpg",
      codigo: "**",
      item: "ANEL DE BUJÃO GM",
      referencia: "**",
@@ -1803,6 +1869,7 @@ const produtos = [
     },
     {
      id: 186,
+     img:"https://img.jocar.com.br/773197_500.jpg",
      codigo: "**",
      item: "ANEL DE BUJÃO FIAT",
      referencia: "**",
@@ -1812,6 +1879,7 @@ const produtos = [
     },
     {
      id: 187,
+     img:"https://http2.mlstatic.com/D_NQ_NP_854598-MLB40427021134_012020-O.webp",
      codigo: "**",
      item: "ANEL DE BUJÃO PEUGEOT",
      referencia: "**",
