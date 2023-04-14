@@ -3271,7 +3271,7 @@ const produtos = [
      referencia: "BD8930",
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 2
+     quantidade: 0
     },
     {
      id: 342,
