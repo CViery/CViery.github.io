@@ -168,7 +168,7 @@ const produtos = [
      referencia: "5W40",
      marca: "VOLSKWAGEM",
      quantidadeMin: 02,
-     quantidade: 9
+     quantidade: 21
     },
     {
      id: 18,
@@ -248,7 +248,7 @@ const produtos = [
      referencia: "VERDE",
      marca: "PARAFLU",
      quantidadeMin: 00,
-     quantidade: 31
+     quantidade: 30
     },
     {
      id: 26,
@@ -938,7 +938,7 @@ const produtos = [
      referencia: "AKX1215",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 0
+     quantidade: 2
     },
     {
      id: 92,
@@ -1028,7 +1028,7 @@ const produtos = [
      referencia: "AKX35345-2",
      marca: "WEGA",
      quantidadeMin: 1,
-     quantidade: 1
+     quantidade: 3
     },
     {
      id: 101,
@@ -1912,7 +1912,7 @@ const produtos = [
      referencia: "**",
      marca: "**",
      quantidadeMin: 00,
-     quantidade: 4
+     quantidade: 16
     },
     {
      id: 191,
@@ -1930,7 +1930,7 @@ const produtos = [
      referencia: "**",
      marca: "**",
      quantidadeMin: 00,
-     quantidade: 67
+     quantidade: 79
     },
     {
      id: 193,
@@ -1966,7 +1966,7 @@ const produtos = [
      referencia: "**",
      marca: "**",
      quantidadeMin: 0,
-     quantidade: 3
+     quantidade: 21
     },
     {
      id: 197,
@@ -2569,7 +2569,7 @@ const produtos = [
      referencia: "FAP5218",
      marca: "WEGA",
      quantidadeMin: 0,
-     quantidade: 0
+     quantidade: 2
     },
     {
      id: 264,
@@ -3419,7 +3419,7 @@ const produtos = [
       quantidade: 7
     },
     {
-      id:358,
+      id: 358,
       codigo: "MO5W40",
       item: "ÓLEO PARA MOTOR MAXON LONGLIFE 5W40",
       referencia: "MO5W40",
@@ -3428,7 +3428,7 @@ const produtos = [
       quantidade: 12
     },
     {
-      id:359,
+      id: 359,
       codigo:"JFA0H12",
       item:"FILTRO DE AR WEGA JFA0H12",
       referencia:"JFAOH12",
@@ -3437,7 +3437,7 @@ const produtos = [
       quantidade: 1
     },
     {
-      id:360,
+      id: 360,
       codigo:"KER7A-8DEG",
       item:"VELA DE IGNIÇÃO NGK KER7A-8DEG",
       referencia:"KER7A-8DEG",
@@ -3446,7 +3446,7 @@ const produtos = [
       quantidade: 8
     },
     {
-      id:361,
+      id: 361,
       codigo:"N-252",
       item:"PASTILHA DE FREIO N-252",
       referencia:"N-252",
@@ -3455,7 +3455,7 @@ const produtos = [
       quantidade:1
     },
     {
-      id:362,
+      id: 362,
       codigo:"FAP9054",
       item:"FILTRO DE AR FAP9054 WEGA",
       referencia:"FAP9054",
@@ -3465,7 +3465,7 @@ const produtos = [
 
     },
     {
-      id:363,
+      id: 363,
       codigo:"98553886",
       item:"ÓLEO SINTÉTICO ACDELCO DEXOS 1 SAE 5W30 API SP",
       referencia:"5w30",
@@ -3474,7 +3474,7 @@ const produtos = [
       quantidade:48
     },
     {
-      id:388,
+      id: 388,
       codigo:" ",
       item:"ÓLEO PARA MOTOR PETRONAS SYNTIUM 800 SE SP 10W30",
       referencia:"10w30",
@@ -3483,7 +3483,7 @@ const produtos = [
       quantidade: 19
     },
     {
-      id:389,
+      id: 389,
       codigo:"",
       item: "ANEL BUJÃO RENAULT",
       referencia: "",
@@ -3492,7 +3492,7 @@ const produtos = [
       quantidade:12
     },
     {
-      id:390,
+      id: 390,
       codigo:"10-3001",
       item: "ADITIVO CONCENTRADO PARAFLU ROSA",
       referencia: "ROSA",
@@ -3501,7 +3501,7 @@ const produtos = [
       quantidade:60
     },
     {
-      id:391,
+      id: 391,
       codigo:"10-3044",
       item: "ADITIVO CONCENTRADO PARAFLU AMARELO",
       referencia: "AMARELO",
@@ -3510,15 +3510,42 @@ const produtos = [
       quantidade:48
     },
     {
-      id:391,
+      id: 391,
       codigo:"10-3013",
       item: "ADITIVO CONCENTRADO PARAFLU VERDE",
       referencia: "VERDE",
       marca:"PARAFLU",
       quantidadeMin:10,
       quantidade:48
+    },
+    {
+      id: 393,
+      codigo:"",
+      item: "CAR80 GRAFITE SPRAY",
+      referencia: "",
+      marca:"CAR80",
+      quantidadeMin:1,
+      quantidade:1
+    },
+    {
+      id: 394,
+      codigo:"",
+      item: "CAR80 VASELINA",
+      referencia: "",
+      marca:"CAR80",
+      quantidadeMin:1,
+      quantidade:1
+    },
+    {
+        id: 395,
+        codigo:"WO412",
+        item: "FILTRO DE ÓLEO WEGA WO412",
+        referencia: "WO412",
+        marca:"WEGA",
+        quantidadeMin:1,
+        quantidade:2
     }
-
+    
 
 
    ]
