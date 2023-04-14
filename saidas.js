@@ -128,7 +128,7 @@ const produtos = [
      referencia: "ROSA",
      marca: "PARAFLU",
      quantidadeMin: 02,
-     quantidade:8
+     quantidade:7
     },
     {
      id: 14,
@@ -844,7 +844,7 @@ const produtos = [
      marca: "WEGA",
      aplicacao:"",
      quantidadeMin: 1,
-     quantidade: 7
+     quantidade: 5
     },
     {
      id: 83,
@@ -3203,7 +3203,7 @@ const produtos = [
      referencia: "BD8930",
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 342,
@@ -3212,7 +3212,7 @@ const produtos = [
      referencia: 4099,
      z: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 343,
@@ -3221,7 +3221,7 @@ const produtos = [
      referencia: 93275736,
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 344,
@@ -3230,7 +3230,7 @@ const produtos = [
      referencia: "RT1193",
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 345,
@@ -3239,7 +3239,7 @@ const produtos = [
      referencia: 93373723,
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 346,
@@ -3248,7 +3248,7 @@ const produtos = [
      referencia: 0,
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 347,
@@ -3257,7 +3257,7 @@ const produtos = [
      referencia: "BD8930",
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 348,
@@ -3266,7 +3266,7 @@ const produtos = [
      referencia: "BD3547",
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 349,
@@ -3275,7 +3275,7 @@ const produtos = [
      referencia: "BD1440",
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 350,
@@ -3284,7 +3284,7 @@ const produtos = [
      referencia: "BD5297",
      marca: "FREMAX",
      quantidadeMin: 0,
-     quantidade: 1
+     quantidade: 2
     },
     {
      id: 351,
