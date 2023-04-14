@@ -4,7 +4,7 @@ const produtos = [
      id: 1,
      img:"https://cdn.awsli.com.br/300x300/583/583938/produto/23844786/a3b21c050d.jpg",
      codigo: 98550378,
-     item: "ÓLEO ACDELCO SEMISINTÉTICO SAE 5W3O API SN",
+     item: "ÓLEO ACDELCO SEMISINTÉTICO SAE 5W30 API SN",
      referencia: "5W30",
      marca: "ACDELCO",
      quantidadeMin: 02,
@@ -62,6 +62,7 @@ const produtos = [
     },
     {
      id: 7,
+     img: "https://cdn.pli-petronas.com/styles/image_340x315/s3/2022-04/Pack%20Syntium%207000%20Hybrid%200W20%20-%201L.png?VersionId=2385.eA0G2UpD8IVc2DT7EQ9xnHMcfuU&itok=b4oJOQWA",
      codigo: 20127,
      item: "ÓLEO PETRONAS SYNTIUM 7000 HYBRID 0W20",
      referencia: "0W20",
@@ -71,6 +72,7 @@ const produtos = [
     },
     {
      id: 8,
+     img:"https://images.tcdn.com.br/img/img_prod/1025143/90_oleo_freio_dot_4_500ml_ate_485_1_71866f33e0bd4c00593f86e1044f844e.jpg",
      codigo: "ATE6092",
      item: "FLUIDO DE FREIO ATE DOT 4 0,5L ",
      referencia: "DOT 4",
@@ -80,6 +82,7 @@ const produtos = [
     },
     {
      id: 9,
+     img:"https://a-static.mlcdn.com.br/1500x1500/oleo-lubrificante-para-transmissao-automatica-e-direcao-hidraulica-dexron-6-acdelco-1l/altese/2012188/6626c20bacd0bf91a201176ea3bac2b4.jpeg",
      codigo: 98550134,
      item: "FLUIDO PARA TRANSMISSÃO AUTOMÁTICA E DIREÇÃO HIDRAULICA DEXRON VI",
      referencia: "DEXRON",
@@ -89,6 +92,7 @@ const produtos = [
     },
     {
      id: 10,
+     img:"https://www.lcferragens.com.br/wp-content/uploads/arc-c10.jpg",
      codigo: 9909,
      item: "ÓLEO PARA SISTEMAS PNEUMÁTICOS ARC-C10",
      referencia: "ARC-10",
@@ -98,6 +102,7 @@ const produtos = [
     },
     {
      id: 11,
+     img:"https://img.jocar.com.br/708629_1000.jpg",
      codigo: 98550868,
      item: "LUBRIFICANTE MINERAL PARA TRASMISSÃO AUTOMATICA E DIREÇÃO HIDRAULICA",
      referencia: "GM",
@@ -107,6 +112,7 @@ const produtos = [
     },
     {
      id: 12,
+     img:"https://21350.cdn.simplo7.net/static/21350/sku/oleos-e-fluidos-oleo-de-cambio-e-diferencial-oleo-para-transmissao-mecanica-acdelco-75w85-api-gl-4-1l-1629315654133.jpg",
      codigo: 94728699,
      item: "ÓLEO PARA TRANSMISSÃO MECÂNICA 75W85 ACDELCO ",
      referencia: "75W85",
@@ -116,6 +122,7 @@ const produtos = [
     },
     {
      id: 13,
+     img:"https://paraflu.ind.br/upload/site_produto/imagem/1/8_m.png?v=20230405121213",
      codigo: 14261,
      item: "SOLUÇÃO ARREFECEDORA PARAFLU ROSA",
      referencia: "ROSA",
@@ -125,6 +132,7 @@ const produtos = [
     },
     {
      id: 14,
+     img:"https://http2.mlstatic.com/D_NQ_NP_2X_936171-MLB48770603305_012022-V.webp",
      codigo: 23020207,
      item: "LUBRIFICANTE SEMISSINTÉTICO PARA TRANSMISSÃO E DIFERENCIAL75W80",
      referencia: "75W80",
@@ -134,6 +142,7 @@ const produtos = [
     },
     {
      id: 15,
+     img:"https://http2.mlstatic.com/D_NQ_NP_831987-MLB50499790125_062022-O.webp",
      codigo: 21060135,
      item: "FLUIDO LUBRIFICANTE PARA TRASMISSÃO AUTOMÁTICA E SISTEMAS DE DIREÇÃO HIDRÁULICA ATF DEXRON III",
      referencia: "DEXRON III",
@@ -143,6 +152,7 @@ const produtos = [
     },
     {
      id: 16,
+     img:"https://pneubras.vteximg.com.br/arquivos/ids/155728-1000-1000/5w40_selenia_perform_amarelo_aplic-1---2-.png?v=637609241080470000",
      codigo: 19371,
      item: "ÓLEO PETRONAS SELENIA PERFORM SAE 5W40 API SN PLUS",
      referencia: "5W40",
@@ -152,6 +162,7 @@ const produtos = [
     },
     {
      id: 17,
+     img:"https://marcaotrocadeoleo.com.br/image/cache/catalog/products_2022/kOXH92aVwj1cGncVX15wrc7594wmH7TmR5rBX9nc6AXl3IJfat-700x500.png",
      codigo: "G S55 553 R2 BRA",
      item: "ÓLEO DE MOTOR ORIGINAL VOLKSWAGEN MAXI PERFORMANCE SAE 5W40 ",
      referencia: "5W40",
@@ -161,6 +172,7 @@ const produtos = [
     },
     {
      id: 18,
+     img:"https://global.cdn.magazord.com.br/comboautopecas/img/2022/11/produto/363/1667908288065.png?ims=fit-in/475x650/filters:fill(white)",
      codigo: "BXO-5W20-CA",
      item: "ÓLEO PARA MOTOR SYNTHETIC MOTOR OIL MOTORCRAFT 5W20",
      referencia: "5W20",
@@ -170,6 +182,7 @@ const produtos = [
     },
     {
      id: 19,
+     img:"https://pneubras.vteximg.com.br/arquivos/ids/155772-1000-1000/syntium_1000_semisintetico_10w_40.png?v=637673227524430000",
      codigo: 16525,
      item: "ÓLEO PARA MOTOR PETRONAS SYNTIUM 1000 10W40",
      referencia: "10W40",
@@ -179,6 +192,7 @@ const produtos = [
     },
     {
      id: 20,
+     img:"https://cdn.pli-petronas.com/styles/image_275x255/s3/2022-11/PETRONAS%20Syntium%20800%20SE%20SP%2015W40%20340x315.png?VersionId=MMklO0Z83nqGfxOAaoENRKk7XjMghMGc&itok=8E-yePGs",
      codigo: 20095,
      item: "ÓLEO PETRONAS SYNTIUM 800 SE SP 15W40",
      referencia: "15W40",
@@ -188,6 +202,7 @@ const produtos = [
     },
     {
      id: 21,
+     img:"https://www.mondomoto.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/d/_/d_nq_np_814252-mlb41784985136_052020-o.png",
      codigo: 7691801,
      item: "ÓLEO PARA MOTOR PRO HONDA SAE 10W30",
      referencia: "10W30",
@@ -197,6 +212,7 @@ const produtos = [
     },
     {
      id: 22,
+     img:"https://pneubras.vteximg.com.br/arquivos/ids/155779-1000-1000/sprinta_f500_semissintetico_10w_30--2-.png?v=637675052154000000",
      codigo: 18120,
      item: "ÓLEO PARA MOTOR DE MOTOCICLETA PETRONAS SPRINTA F500 10W30",
      referencia: "10W30",
@@ -206,6 +222,7 @@ const produtos = [
     },
     {
      id: 23,
+     img:"https://global.cdn.magazord.com.br/comboautopecas/img/2022/11/produto/363/1667908288065.png?ims=fit-in/475x650/filters:fill(white)",
      codigo: "BXO-5W30-GA",
      item: "ÓLEO PARA MOTOR SYNTHETIC MOTOR OIL MOTORCRAFT 5W30",
      referencia: "5W30",
@@ -215,6 +232,7 @@ const produtos = [
     },
     {
      id: 24,
+     img:"https://paraflu.ind.br/upload/site_produto/imagem_home/m/10.png?v=20230331010828",
      codigo: 103047,
      item: "SOLUÇÃO ARREFECEDORA PARAFLU AMARELA",
      referencia: "AMARELO",
@@ -224,6 +242,7 @@ const produtos = [
     },
     {
      id: 25,
+     img:"https://paraflu.ind.br/upload/site_produto/imagem/5/20_m.png?v=20230330225924",
      codigo: 103016,
      item: "SOLUÇÃO ARREFECEDORA PARAFLU VERDE",
      referencia: "VERDE",
@@ -233,6 +252,7 @@ const produtos = [
     },
     {
      id: 26,
+     img:"https://a-static.mlcdn.com.br/800x560/oleo-lubrificante-cambio-trw-4-80w-1-litro-lubrax/autobitts/052384/7b4fade3f212bad5091fe201b75a7c7b.jpeg",
      codigo: "TRM-4",
      item: "LUBRIFICANTE MINERAL PARA TRASMISSÃO AUTOMOTIVA LUBRAX",
      referencia: "TRM-4",
@@ -242,6 +262,7 @@ const produtos = [
     },
     {
      id: 27,
+     img:"https://img.irroba.com.br/filters:fill(fff):quality(80)/sermicom/catalog/api/sermicom_citelirr/617965c853c88.jpg",
      codigo: "7647401R-M",
      item: "ÓLEO LUBRIFICANTE PARA CAIXA DE MUDANÇA MECANICA ISAFLUIDO556",
      referencia: "ISAFLUIDO 556",
@@ -251,6 +272,7 @@ const produtos = [
     },
     {
      id: 28,
+     img:"https://http2.mlstatic.com/D_NQ_NP_743692-MLB52812732758_122022-O.webp",
      codigo: "ON-075",
      item: "ÁGUA DESMINERALIZADA ONYX PLUS 1L",
      referencia: "ON-075",
@@ -260,6 +282,7 @@ const produtos = [
     },
     {
      id: 29,
+     img:"https://cdn.awsli.com.br/600x700/2124/2124853/produto/128999413/5e7ae43874.jpg",
      codigo: "***",
      item: "METALSIL DESIX AROMATIZANTE DE USO GERAL",
      referencia: "***",
@@ -269,6 +292,7 @@ const produtos = [
     },
     {
      id: 30,
+     img:"https://images.cws.digital/produtos/gg/07/31/polia-da-correia-de-servico-1813107-1607105002413.jpg",
      codigo: "VKM4794",
      item: "POLIA VKM 4794 ",
      referencia: "W44W-AK",
@@ -278,6 +302,7 @@ const produtos = [
     },
     {
      id: 31,
+     img:"https://img.jocar.com.br/717474_500.jpg",
      codigo: "5310525300A",
      item: "TENSOR INA",
      referencia: 979548,
@@ -287,6 +312,7 @@ const produtos = [
     },
     {
      id: 32,
+     img:"",
      codigo: "CM5G-6K245-EB",
      item: "TENSOR FORD",
      referencia: "CM5G-6K245-EB",
@@ -296,6 +322,7 @@ const produtos = [
     },
     {
      id: 33,
+     img:"https://www.4x4racer.com.br/media/catalog/product/cache/1/image/1540x1540/275e4d25cc257b6336d039384dcb9c9e/r/o/rolamento_pro_automotive_1.jpg",
      codigo: "PRPOFE177626CP",
      item: "ROLAMENTO PRO AUTOMOTIVE",
      referencia: "PRPOFE177626CP",
@@ -305,6 +332,7 @@ const produtos = [
     },
     {
      id: 34,
+     img:"https://images.tcdn.com.br/img/img_prod/992368/tensor_correia_dentada_gm_corsa_celta_prisma_onix_vectra_63_1_a242e3eaec2b29b637ff053d4afc678b.jpg",
      codigo: 904571168,
      item: "TENSOR DA CORREIA GM",
      referencia: 93353848,
@@ -314,6 +342,7 @@ const produtos = [
     },
     {
      id: 35,
+     img:"https://a-static.mlcdn.com.br/1500x1500/correia-dentada-onix-2013-a-2019-original-gm-90531677-chevrolet/primarcaveiculosltda/91cfa2008b3811ebb7fa4201ac1850e0/ab0c8f760a272672fe4d305c71d0444b.jpeg",
      codigo: 90531677,
      item: "CORREIA SINCRONIZADORA GM 90531677",
      referencia: 90531677,
@@ -323,6 +352,7 @@ const produtos = [
     },
     {
      id: 36,
+     img:"https://campelopneus.com.br/wp-content/uploads/2021/01/KS210.jpg",
      codigo: "KS210",
      item: "KIT DE TRASMISSÃO CORREIA E TENSOR KS210 ",
      referencia: 481486,
@@ -332,6 +362,7 @@ const produtos = [
     },
     {
      id: 37,
+     img:"",
      codigo: "CT 453",
      item: "CORREIA DENTADA CT 457 CONTINENTAL ",
      referencia: "CT 453",
@@ -341,6 +372,7 @@ const produtos = [
     },
     {
      id: 38,
+     img:"https://http2.mlstatic.com/D_NQ_NP_697463-MLB45652735805_042021-O.webp",
      codigo: 21031759,
      item: "KIT CORREIA MV 6PK 762 ELAST CT ",
      referencia: "6PK762",
@@ -350,6 +382,7 @@ const produtos = [
     },
     {
      id: 39,
+     img:"https://http2.mlstatic.com/D_NQ_NP_697463-MLB45652735805_042021-O.webp",
      codigo: 21031758,
      item: "KIT CORREIA MV 3PK 796 ELAST CT",
      referencia: "3PK796",
@@ -359,6 +392,7 @@ const produtos = [
     },
     {
      id: 40,
+     img:"https://http2.mlstatic.com/D_NQ_NP_697463-MLB45652735805_042021-O.webp",
      codigo: 21031859,
      item: "KIT CORREIA MV 5PK 1051 ELAST CT",
      referencia: "5PK1051",
@@ -368,6 +402,7 @@ const produtos = [
     },
     {
      id: 41,
+     img:"https://http2.mlstatic.com/D_NQ_NP_697463-MLB45652735805_042021-O.webp",
      codigo: 21031757,
      item: "KIT CORREIA MV 6PK 1200 ELAST CT ",
      referencia: "6PK1200",
@@ -377,6 +412,7 @@ const produtos = [
     },
     {
      id: 42,
+     img:"https://images.tcdn.com.br/img/img_prod/150352/correia_poly_v_elastica_vw_voyage_16v_1_6_2019_continental_6pk989_8941_1_b80b50363840705a0f3e1b2e06bfd3b1.jpg",
      codigo: 21031510,
      item: "CORREIA MULTI V CORREIA ACANALADA 6PK 989 ELAST ",
      referencia: "6PK989",
@@ -386,6 +422,7 @@ const produtos = [
     },
     {
      id: 43,
+     img:"https://http2.mlstatic.com/D_NQ_NP_704091-MLB48211005275_112021-V.jpg",
      codigo: 21031750,
      item: "CORREIA MULTI V CORREIA ACANALADA 3PK 796 ELAST ",
      referencia: "3PK796",
@@ -395,6 +432,7 @@ const produtos = [
     },
     {
      id: 44,
+     img:"https://images-americanas.b2w.io/produtos/01/00/oferta/43991/4/43991483_1GG.jpg",
      codigo: 24579487,
      item: "CORREIA DE TRANSMISSÃO",
      referencia: "GM",
@@ -404,6 +442,7 @@ const produtos = [
     },
     {
      id: 45,
+     img:"https://images.tcdn.com.br/img/img_prod/150352/correia_poly_v_alternador_amarok_2015_2_0_original_contitech_6pk1560_11478_1_6b4f82dcfa01cb7918e3dd52532c2cac.jpg",
      codigo: "6PK1560",
      item: "CORREIA POLY-V 6PK1560",
      referencia: "6PK1560",
@@ -413,6 +452,7 @@ const produtos = [
     },
     {
      id: 46,
+     img:"https://a-static.mlcdn.com.br/280x210/correia-poly-v-5pk-1770-cobalt-1-4-e-1-8-continental/santaluziaautocenter/5a44e1828bfb11ec91c34201ac185055/8ea9e56873aef9987157af1198257617.jpeg",
      codigo: 21035085,
      item: "CORREIA MV 5PK 1770 IMP ",
      referencia: "5PK1770",
@@ -422,6 +462,7 @@ const produtos = [
     },
     {
      id: 47,
+     img:"https://http2.mlstatic.com/D_NQ_NP_940995-MLB45511609394_042021-O.webp",
      codigo: 21031546,
      item: "CORREIA MULTI V CORREIA ACANALADA 6PK 1200 ELAST",
      referencia: "6PK1200",
@@ -431,6 +472,7 @@ const produtos = [
     },
     {
      id: 48,
+     img:"https://galpaoap.vteximg.com.br/arquivos/ids/156032-1000-1000/Correia-polyv-dayco.jpg?v=637460419526270000",
      codigo: 1165,
      item: "CORREIA POLY-V BELT 5PK1165 DAYCO",
      referencia: "5PK1165",
@@ -440,6 +482,7 @@ const produtos = [
     },
     {
      id: 49,
+     img:"https://cf.shopee.com.br/file/0fb55197827a9fb638e854dfc153a354",
      codigo: 24579488,
      item: "CORREIA DE TRANSMISSÃO GM ",
      referencia: 24579488,
@@ -449,6 +492,7 @@ const produtos = [
     },
     {
      id: 50,
+     img:"",
      codigo: "03212028CN",
      item: "CARCACA",
      referencia: "03212026CN",
@@ -467,8 +511,9 @@ const produtos = [
     },
     {
      id: 52,
+     img:"https://dw0jruhdg6fis.cloudfront.net/producao/10538565/G/ub162.jpg",
      codigo: "UB0162",
-     item: "BOMBA D´ÁGUA URBA - FIAT\/GM",
+     item: "BOMBA D´ÁGUA URBA UB0162 - FIAT\/GM",
      referencia: "UB0162",
      marca: "URBA",
      quantidadeMin: 0,
@@ -476,6 +521,7 @@ const produtos = [
     },
     {
      id: 53,
+     img:"https://dw0jruhdg6fis.cloudfront.net/producao/10641980/G/ub630.jpg",
      codigo: "UB0630",
      item: "BOMBA D´ÁGUA URBA - VW",
      referencia: "UB0630",
@@ -485,6 +531,7 @@ const produtos = [
     },
     {
      id: 54,
+     img:"https://http2.mlstatic.com/D_NQ_NP_685946-MLB46401916069_062021-O.jpg",
      codigo: "SBB271J",
      item: "BRONZINA DE BIELA SBB-271-J-0,25 SPA",
      referencia: "SBB271J",
@@ -494,6 +541,7 @@ const produtos = [
     },
     {
      id: 55,
+     img:"https://http2.mlstatic.com/D_NQ_NP_899557-MLB53966586915_022023-V.jpg",
      codigo: "SBC880J",
      item: "BRONZINA DE MANCAL SBC-880-J-0,25",
      referencia: "SBC880J",
@@ -503,285 +551,348 @@ const produtos = [
     },
     {
      id: 56,
+     img:"https://wega.com.ar/uploads/AKX-1965C.jpg",
      codigo: "AKX1965\/C",
      item: "FILTRO DE CABINE AKX 1965\/C WEGA",
      referencia: "AKX1965\/C",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 4
     },
     {
      id: 57,
+     img:"https://wega.com.ar/uploads/AKX-2161.jpg",
      codigo: "AKX2161",
      item: "FILTRO DE CABINE AKX2161 WEGA",
      referencia: "AKX2161",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 5
     },
     {
      id: 58,
+     img:"https://wega.com.ar/uploads/AKX-1937.jpg",
      codigo: "AKX1937",
      item: "FILTRO DE CABINE AKX1937 WEGA",
      referencia: "AKXQ937",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 59,
+     img:"https://wega.com.ar/uploads/AKX-1939.jpg",
      codigo: "AKX1939",
      item: "FILTRO DE CABINE AKX1939 WEGA",
      referencia: "AKX1939",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 4
     },
     {
      id: 60,
+     img:"https://wega.com.ar/uploads/AKX-35323.jpg",
      codigo: "AKX35323",
      item: "FILTRO DE CABINE AKX35323 WEGA",
      referencia: "AKX35323",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 7
     },
     {
      id: 61,
+     img:"https://wega.com.ar/uploads/AKX-35321.jpg",
      codigo: "AKX35321",
      item: "FILTRO DE CABINE AKX35321 WEGA",
      referencia: "AKX35321",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 3
     },
     {
      id: 62,
+     img:"https://wega.com.ar/uploads/AKX-1375.jpg",
      codigo: "AKX1375",
      item: "FILTRO DE CABINE AKX1375 WEGA",
      referencia: "AKX1375",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 4
     },
     {
      id: 63,
+     img:"https://wega.com.ar/uploads/AKX-2108C.jpg",
      codigo: "AKX2108\/C",
      item: "FILTRO DE CABINE AKX 2108\/C WEGA",
      referencia: "AKX2108\/C",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 3
     },
     {
      id: 64,
+     img:"https://wega.com.ar/uploads/AKX-35293.jpg",
      codigo: "AKX35293",
      item: "FILTRO DE CABINE AKX35293 WEGA",
      referencia: "AKX35293",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 3
     },
     {
      id: 65,
+     img:"https://wega.com.ar/uploads/AKX-35723.jpg",
      codigo: "AKX35723",
      item: "FILTRO DE CABINE AKX35723 WEGA",
      referencia: "AKX35723",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 5
     },
     {
      id: 66,
+     img:"https://wega.com.ar/uploads/AKX-3536.jpg",
      codigo: "AKX3536",
      item: "FILTRO DE CABINE AKX3536 WEGA",
      referencia: "AKX3536",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 2
     },
     {
      id: 67,
+     img:"https://wega.com.ar/uploads/AKX-3562.jpg",
      codigo: "AKX3562",
      item: "FILTRO DE CABINE AKX3562 WEGA",
      referencia: "AKX3562",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 2
     },
     {
      id: 68,
+     img:"https://wega.com.ar/uploads/AKX-35159.jpg",
      codigo: "AKX35159",
      item: "FILTRO DE CABINE AKX35159 WEGA",
      referencia: "AKX35159",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 2
     },
     {
      id: 69,
+     img:"https://wega.com.ar/uploads/AKX-35280.jpg",
      codigo: "AKX35280",
      item: "FILTRO DE CABINE AKX35280 WEGA",
      referencia: "AKX35280",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 2
     },
     {
      id: 70,
+     img:"https://wega.com.ar/uploads/AKX-35281C.jpg",
      codigo: "AKX35281\/C",
      item: "FILTRO DE CABINE AKX35281\/C WEGA",
      referencia: "AKX35281\/C",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 2
     },
     {
      id: 71,
+     img:"https://http2.mlstatic.com/D_NQ_NP_908494-MLA52624317233_112022-O.webp",
      codigo: "ACP312",
      item: "FILTRO DE CABINE ACP312 TECFIL",
      referencia: "ACP312",
      marca: "TECFIL",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 72,
+     img:"https://wega.com.ar/uploads/AKX-35163.jpg",
      codigo: "AKX35163",
      item: "FILTRO DE CABINE AKX35163 WEGA",
      referencia: "AKX35163",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 73,
+     img:"https://wega.com.ar/uploads/AKX-35634.jpg",
      codigo: "AKX35634",
      item: "FILTRO DE CABINE AKX35634 WEGA",
      referencia: "AKX35634",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 74,
+     img:"https://wega.com.ar/uploads/AKX-1113C.jpg",
      codigo: "AKX1113\/C",
      item: "FILTRO DE CABINE AKX1113\/C WEGA",
      referencia: "AKX1113\/C",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 75,
+     img:"https://wega.com.ar/uploads/AKX-1129F.jpg",
      codigo: "AKX1129F",
      item: "FILTRO DE CABINE AKX1129F WEGA",
      referencia: "AKX1129F",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 5
     },
     {
      id: 76,
+     img:"https://wega.com.ar/uploads/AKX-1100C.jpg",
      codigo: "AKX1100\/C",
      item: "FILTRO DE CABINE AKX1100\/C WEGA",
      referencia: "AKX1100\/C",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 77,
+     img:"https://wega.com.ar/uploads/AKX-2007.jpg",
      codigo: "AKX2007",
      item: "FILTRO DE CABINE AKX2007 WEGA",
      referencia: "AKX2007",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 78,
+     img:"https://wega.com.ar/uploads/AKX-1963.jpg",
      codigo: "AKX1963",
      item: "FILTRO DE CABINE AKX1963 WEGA",
      referencia: "AKX1963",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 79,
+     img:"https://wega.com.ar/uploads/AKX-2005.jpg",
      codigo: "AKX2005",
      item: "FILTRO DE CABINE AKX2005 WEGA",
      referencia: "AKX2005",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 2
     },
     {
      id: 80,
+     img:"https://images.cws.digital/produtos/gg/71/61/filtro-do-ar-condicionado-1096171-1596822638404.jpg",
      codigo: "AKX1974\/C",
      item: "FILTRO DE CABINE AKX1974\/C WEGA",
      referencia: "AKX1974\/C",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 81,
+     img:"https://wega.com.ar/uploads/AKX-1958.jpg",
      codigo: "AKX1958",
      item: "FILTRO DE CABINE AKX1958 WEGA",
      referencia: "AKX1958",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 1
     },
     {
      id: 82,
+     img:"https://wega.com.ar/uploads/AKX-1984.jpg",
      codigo: "AKX1984",
      item: "FILTRO DE CABINE AKX1984 WEGA",
      referencia: "AKX1984",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 7
     },
     {
      id: 83,
+     img:"https://images.tcdn.com.br/img/img_prod/1039962/filtro_ar_condicionado_mahle_la301_hyundai_tucson_kia_659_1_404929d0d7098d1a6146d7a6d7c86952.jpg",
      codigo: "LA301",
      item: "FILTRO DE CABINE LA301 MAHLE",
      referencia: "LA301",
      marca: "MAHLE",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 3
     },
     {
      id: 84,
+     img:"https://wega.com.ar/uploads/AKX-1998.jpg",
      codigo: "AKX1998",
      item: "FILTRO DE CABINE AKX1998 WEGA",
      referencia: "AKX1998",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 3
     },
     {
      id: 85,
+     img:"https://wega.com.ar/uploads/AKX-2014.jpg",
      codigo: "AKX2014",
      item: "FILTRO DE CABINE AKX2014 WEGA",
      referencia: "AKX2014",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 2
     },
     {
      id: 86,
+     img:"https://wega.com.ar/uploads/AKX-35347F.jpg",
      codigo: "AKX35347F",
      item: "FILTRO DE CABINE AKX35347F WEGA",
      referencia: "AKX35347F",
      marca: "WEGA",
+     aplicacao:"",
      quantidadeMin: 1,
      quantidade: 2
     },
     {
      id: 87,
+     img:"https://wega.com.ar/uploads/AKX-1959.jpg",
      codigo: "AKX1959",
      item: "FILTRO DE CABINE AKX1959 WEGA",
      referencia: "AKX1959",
@@ -791,6 +902,7 @@ const produtos = [
     },
     {
      id: 88,
+     img:"https://wega.com.ar/uploads/AKX-1446.jpg",
      codigo: "AKX1446",
      item: "FILTRO DE CABINE AKX1446 WEGA",
      referencia: "AKX1446",
@@ -800,6 +912,7 @@ const produtos = [
     },
     {
      id: 89,
+     img:"https://wega.com.ar/uploads/AKX-1399.jpg",
      codigo: "AKX1399",
      item: "FILTRO DE CABINE AKX1399 WEGA",
      referencia: "AKX1399",
@@ -809,6 +922,7 @@ const produtos = [
     },
     {
      id: 90,
+     img:"https://wega.com.ar/uploads/AKX-1397.jpg",
      codigo: "AKX1397",
      item: "FILTRO DE CABINE AKX1397 WEGA",
      referencia: "AKX1397",
@@ -818,6 +932,7 @@ const produtos = [
     },
     {
      id: 91,
+     img:"https://wega.com.ar/uploads/AKX-1215.jpg",
      codigo: "AKX1215",
      item: "FILTRO DE CABINE AKX1215 WEGA ",
      referencia: "AKX1215",
@@ -827,6 +942,7 @@ const produtos = [
     },
     {
      id: 92,
+     img:"https://wega.com.ar/uploads/AKX-1956.jpg",
      codigo: "AKX1956",
      item: "FILTRO DE CABINE AKX1956 WEGA",
      referencia: "AKX1956",
@@ -836,6 +952,7 @@ const produtos = [
     },
     {
      id: 93,
+     img:"https://wega.com.ar/uploads/AKX-1995.jpg",
      codigo: "AKX1995",
      item: "FILTRO DE CABINE AKX1995 WEGA",
      referencia: "AKX1995",
@@ -845,6 +962,7 @@ const produtos = [
     },
     {
      id: 94,
+     img:"https://wega.com.ar/uploads/AKX-1993C.jpg",
      codigo: "AKX1993\/C",
      item: "FILTRO DE CABINE AKX1993\/C WEGA",
      referencia: "AKX1993\/C",
@@ -854,6 +972,7 @@ const produtos = [
     },
     {
      id: 95,
+     img:"https://wega.com.ar/uploads/AKX-35126.jpg",
      codigo: "AKX35126",
      item: "FILTRO DE CABINE AKX35126 WEGA ",
      referencia: "AKX35126",
@@ -863,6 +982,7 @@ const produtos = [
     },
     {
      id: 96,
+     img:"https://wega.com.ar/uploads/AKX-1971.jpg",
      codigo: "AKX1971",
      item: "FILTRO DE CABINE AKX1971 WEGA",
      referencia: "AKX1971",
@@ -872,6 +992,7 @@ const produtos = [
     },
     {
      id: 97,
+     img:"https://wega.com.ar/uploads/AKX-1701.jpg",
      codigo: "AKX1701",
      item: "FILTRO DE CABINE AKX1701 WEGA",
      referencia: "AKX1701",
@@ -881,6 +1002,7 @@ const produtos = [
     },
     {
      id: 98,
+     img:"https://wega.com.ar/uploads/AKX-35175F.jpg",
      codigo: "AKX35175F",
      item: "FILTRO DE CABINE AKX35175F WEGA",
      referencia: "AKX35175F",
@@ -890,6 +1012,7 @@ const produtos = [
     },
     {
      id: 99,
+     img:"https://cf.shopee.com.br/file/5740bac502496d8836f5150842367631",
      codigo: "LA1099\/S",
      item: "FILTRO DE CABINE LA1099\/S MAHLE",
      referencia: "LA1099\/S",
@@ -899,6 +1022,7 @@ const produtos = [
     },
     {
      id: 100,
+     img:"https://wega.com.ar/uploads/AKX-35345-2.jpg",
      codigo: "AKX35345-2",
      item: "FILTRO DE CABINE AKX35345-2 WEGA ",
      referencia: "AKX35345-2",
@@ -908,6 +1032,7 @@ const produtos = [
     },
     {
      id: 101,
+     img:"https://wega.com.ar/uploads/AKX-35157.jpg",
      codigo: "AKX35157",
      item: "FILTRO DE CABINE AKX35157 WEGA",
      referencia: "AKX35157",
@@ -917,6 +1042,7 @@ const produtos = [
     },
     {
      id: 102,
+     img:"https://http2.mlstatic.com/D_NQ_NP_961987-MLB49575044395_042022-O.webp",
      codigo: "M50JD",
      item: "BATERIA MOURA M50JD",
      referencia: "50JD",
@@ -926,6 +1052,7 @@ const produtos = [
     },
     {
      id: 103,
+     img:"https://maxonoil.com.br/wp-content/uploads/2022/12/10_PREMIUM-20W50-API-SL-_-MINERAL-1024x1024.png",
      codigo: "MO2050",
      item: "ÓLEO PARA MOTOR MAXON MINERAL 20W50 API SL",
      referencia: "MO2050",
@@ -935,8 +1062,9 @@ const produtos = [
     },
     {
      id: 104,
+     img:"https://maxonoil.com.br/wp-content/uploads/2022/12/07_ULTRA-5W40-API-SN-_-ACEA-A3_B4-12-1024x1024.png",
      codigo: "MO540",
-     item: "ÓLEO PARA MOTOR MAXON SINTÉTICO 5W40 ",
+     item: "ÓLEO PARA MOTOR MAXON SINTÉTICO 5W40",
      referencia: "MO540",
      marca: "MAXON",
      quantidadeMin: 0,
@@ -944,6 +1072,7 @@ const produtos = [
     },
     {
      id: 105,
+     img:"https://wega.com.ar/uploads/AKX-1456C.jpg",
      codigo: "AKX1456\/C",
      item: "FILTRO DE CABINE AKX 1456\/C WEGA",
      referencia: "AKX1456\/C",
@@ -953,6 +1082,7 @@ const produtos = [
     },
     {
      id: 106,
+     img:"https://cdn.awsli.com.br/600x450/2488/2488646/produto/184920159/45babaf21c.jpg",
      codigo: "UB0167",
      item: "BOMBA D'ÁGUA UB0167",
      referencia: "UB0167",
@@ -1665,7 +1795,7 @@ const produtos = [
     {
      id: 185,
      codigo: "**",
-     item: "ANEL DE BUJÃO CHEVROLET",
+     item: "ANEL DE BUJÃO GM",
      referencia: "**",
      marca: "**",
      quantidadeMin: 00,
@@ -3292,7 +3422,36 @@ const produtos = [
       marca:"",
       quantidadeMin:10,
       quantidade:12
+    },
+    {
+      id:390,
+      codigo:"10-3001",
+      item: "ADITIVO CONCENTRADO PARAFLU ROSA",
+      referencia: "ROSA",
+      marca:"PARAFLU",
+      quantidadeMin:10,
+      quantidade:60
+    },
+    {
+      id:391,
+      codigo:"10-3044",
+      item: "ADITIVO CONCENTRADO PARAFLU AMARELO",
+      referencia: "AMARELO",
+      marca:"PARAFLU",
+      quantidadeMin:10,
+      quantidade:48
+    },
+    {
+      id:391,
+      codigo:"10-3013",
+      item: "ADITIVO CONCENTRADO PARAFLU VERDE",
+      referencia: "VERDE",
+      marca:"PARAFLU",
+      quantidadeMin:10,
+      quantidade:48
     }
+
+
 
    ]
 
@@ -3308,7 +3467,7 @@ function pesquisarProdutos  (termo) {
     let html = '';
     for (let i = 0; i < produtos.length; i++) {
       html += '<div class="produto">';
-      /* html += `<img class="imgprodutos" src="${produtos[i].img}" alt="">` */
+      html += `<img class="imgprodutos" src="${produtos[i].img}" alt="">` 
       html += '<h2 class="tituloProduto">' + produtos[i].item + '</h2>';
       html += '<p class="infos">'+ "ID:   " + produtos[i].id + '</p>';
       html += '<p class="infos">'+ "Codigo:  " + produtos[i].codigo + '</p>';

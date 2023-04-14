@@ -17,7 +17,7 @@
 main{
     height: 80vh;
     /* background-color: rgb(77, 185, 232) ; */
-    background-image: url("https://blog.simplusbr.com/wp-content/uploads/2020/09/oficina-mecanica-organizada.jpg");
+    background-image: url("./imgoficina.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
