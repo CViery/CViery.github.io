@@ -1,6 +1,5 @@
 const produtos = [
   
-  [
     {
      id: 1,
      codigo: 98550378,
@@ -3436,7 +3435,7 @@ const produtos = [
     }
    ]
 
-   ]
+   
 
 
    
@@ -3450,12 +3449,12 @@ function pesquisarProdutos  (termo) {
     let html = '';
     for (let i = 0; i < produtos.length; i++) {
       html += '<div class="produto">';
-      html += `<img class="imgprodutos" src="${produtos[i].img}" alt="">` 
+     /*  html += `<img class="imgprodutos" src="${produtos[i].img}" alt="">`  */
       html += '<h2 class="tituloProduto">' + produtos[i].item + '</h2>';
       html += '<p class="infos">'+ "ID:   " + produtos[i].id + '</p>';
       html += '<p class="infos">'+ "Codigo:  " + produtos[i].codigo + '</p>';
       html += '<p class="infos">' +"Referencia:   "+ produtos[i].referencia + '</p>';
-      html += '<p class="infos">'+ "Estoque:   " + produtos[i].quantidade + '</p>';
+      html += '<p class="infos">'+ "Estoque:   " + produtos[i].quantidadeEstoque + '</p>';
       /* html += '<button onclick="adicionarProdutoAoCarrinho(' + i + ')">Adicionar ao carrinho</button>'; */
       html += '</div>';
     }
